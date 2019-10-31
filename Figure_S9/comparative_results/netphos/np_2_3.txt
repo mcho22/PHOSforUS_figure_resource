@@ -1,0 +1,1944 @@
+# sample07                15 Y   EKPSYCNSR   0.983   unsp       YES
+# sample07                15 Y   EKPSYCNSR   0.521   EGFR       YES
+# sample07                15 Y   EKPSYCNSR   0.488   INSR        . 
+# sample07                15 Y   EKPSYCNSR   0.395   SRC         . 
+#
+# sample07                33 Y   SNWLYEDGE   0.959   unsp       YES
+# sample07                33 Y   SNWLYEDGE   0.477   SRC         . 
+# sample07                33 Y   SNWLYEDGE   0.457   INSR        . 
+# sample07                33 Y   SNWLYEDGE   0.338   EGFR        . 
+#
+# sample07                44 Y   PKQVYVDKL   0.947   unsp       YES
+# sample07                44 Y   PKQVYVDKL   0.420   INSR        . 
+# sample07                44 Y   PKQVYVDKL   0.347   EGFR        . 
+# sample07                44 Y   PKQVYVDKL   0.327   SRC         . 
+#
+# sample07                73 Y   EDAFYTLVR   0.548   EGFR       YES
+# sample07                73 Y   EDAFYTLVR   0.471   SRC         . 
+# sample07                73 Y   EDAFYTLVR   0.440   unsp        . 
+# sample07                73 Y   EDAFYTLVR   0.405   INSR        . 
+#
+# sample07                82 Y   EIRQYRMKK   0.410   INSR        . 
+# sample07                82 Y   EIRQYRMKK   0.354   SRC         . 
+# sample07                82 Y   EIRQYRMKK   0.332   EGFR        . 
+# sample07                82 Y   EIRQYRMKK   0.021   unsp        . 
+#
+# sample07                98 Y   SSDPYVKIY   0.988   unsp       YES
+# sample07                98 Y   SSDPYVKIY   0.515   INSR       YES
+# sample07                98 Y   SSDPYVKIY   0.444   SRC         . 
+# sample07                98 Y   SSDPYVKIY   0.354   EGFR        . 
+#
+# sample07               102 Y   YVKIYLLPD   0.466   INSR        . 
+# sample07               102 Y   YVKIYLLPD   0.438   EGFR        . 
+# sample07               102 Y   YVKIYLLPD   0.295   SRC         . 
+# sample07               102 Y   YVKIYLLPD   0.040   unsp        . 
+#
+# sample07               131 Y   SRENYLNRC   0.865   unsp       YES
+# sample07               131 Y   SRENYLNRC   0.423   INSR        . 
+# sample07               131 Y   SRENYLNRC   0.339   EGFR        . 
+# sample07               131 Y   SRENYLNRC   0.305   SRC         . 
+#
+# sample07               160 Y   FGVVYCFFG   0.405   INSR        . 
+# sample07               160 Y   FGVVYCFFG   0.335   EGFR        . 
+# sample07               160 Y   FGVVYCFFG   0.319   SRC         . 
+# sample07               160 Y   FGVVYCFFG   0.151   unsp        . 
+#
+# sample07               165 Y   CFFGYRCFK   0.399   INSR        . 
+# sample07               165 Y   CFFGYRCFK   0.344   EGFR        . 
+# sample07               165 Y   CFFGYRCFK   0.315   SRC         . 
+# sample07               165 Y   CFFGYRCFK   0.111   unsp        . 
+#
+# sample07               189 Y   EDFLYHEGY   0.833   unsp       YES
+# sample07               189 Y   EDFLYHEGY   0.498   SRC         . 
+# sample07               189 Y   EDFLYHEGY   0.483   EGFR        . 
+# sample07               189 Y   EDFLYHEGY   0.467   INSR        . 
+#
+# sample07               193 Y   YHEGYACTS   0.879   unsp       YES
+# sample07               193 Y   YHEGYACTS   0.415   EGFR        . 
+# sample07               193 Y   YHEGYACTS   0.399   INSR        . 
+# sample07               193 Y   YHEGYACTS   0.332   SRC         . 
+#
+# sample07               218 Y   GLAMYECRE   0.405   INSR        . 
+# sample07               218 Y   GLAMYECRE   0.359   EGFR        . 
+# sample07               218 Y   GLAMYECRE   0.352   SRC         . 
+# sample07               218 Y   GLAMYECRE   0.016   unsp        . 
+#
+# sample07               224 Y   CRECYDDPD   0.937   unsp       YES
+# sample07               224 Y   CRECYDDPD   0.418   INSR        . 
+# sample07               224 Y   CRECYDDPD   0.370   SRC         . 
+# sample07               224 Y   CRECYDDPD   0.362   EGFR        . 
+#
+# sample07               247 Y   VTGLYEKPS   0.431   INSR        . 
+# sample07               247 Y   VTGLYEKPS   0.415   EGFR        . 
+# sample07               247 Y   VTGLYEKPS   0.403   SRC         . 
+# sample07               247 Y   VTGLYEKPS   0.318   unsp        . 
+#
+# sample07               263 Y   KVQVYIHIR   0.512   EGFR       YES
+# sample07               263 Y   KVQVYIHIR   0.437   INSR        . 
+# sample07               263 Y   KVQVYIHIR   0.338   SRC         . 
+# sample07               263 Y   KVQVYIHIR   0.071   unsp        . 
+#
+# sample07               276 Y   DVHEYLNSL   0.515   unsp       YES
+# sample07               276 Y   DVHEYLNSL   0.398   INSR        . 
+# sample07               276 Y   DVHEYLNSL   0.392   EGFR        . 
+# sample07               276 Y   DVHEYLNSL   0.358   SRC         . 
+#
+# sample07               305 Y   EVKDYVAKG   0.919   unsp       YES
+# sample07               305 Y   EVKDYVAKG   0.507   EGFR       YES
+# sample07               305 Y   EVKDYVAKG   0.426   INSR        . 
+# sample07               305 Y   EVKDYVAKG   0.349   SRC         . 
+#
+# sample07               323 Y   GTLTYGWTR   0.418   SRC         . 
+# sample07               323 Y   GTLTYGWTR   0.399   INSR        . 
+# sample07               323 Y   GTLTYGWTR   0.336   EGFR        . 
+# sample07               323 Y   GTLTYGWTR   0.050   unsp        . 
+#
+# sample07               334 Y   EESRYKFYL   0.931   unsp       YES
+# sample07               334 Y   EESRYKFYL   0.505   EGFR       YES
+# sample07               334 Y   EESRYKFYL   0.446   INSR        . 
+# sample07               334 Y   EESRYKFYL   0.433   SRC         . 
+#
+# sample07               337 Y   RYKFYLPPT   0.431   EGFR        . 
+# sample07               337 Y   RYKFYLPPT   0.385   INSR        . 
+# sample07               337 Y   RYKFYLPPT   0.326   SRC         . 
+# sample07               337 Y   RYKFYLPPT   0.018   unsp        . 
+#
+# sample07               357 Y   RGTVYFKEG   0.488   INSR        . 
+# sample07               357 Y   RGTVYFKEG   0.440   SRC         . 
+# sample07               357 Y   RGTVYFKEG   0.367   EGFR        . 
+# sample07               357 Y   RGTVYFKEG   0.244   unsp        . 
+#
+# sample07               363 Y   KEGKYKQAL   0.968   unsp       YES
+# sample07               363 Y   KEGKYKQAL   0.424   EGFR        . 
+# sample07               363 Y   KEGKYKQAL   0.416   INSR        . 
+# sample07               363 Y   KEGKYKQAL   0.403   SRC         . 
+#
+# sample07               370 Y   ALLQYKKIV   0.404   INSR        . 
+# sample07               370 Y   ALLQYKKIV   0.325   EGFR        . 
+# sample07               370 Y   ALLQYKKIV   0.313   SRC         . 
+# sample07               370 Y   ALLQYKKIV   0.035   unsp        . 
+#
+# sample07               392 Y   QPMFYFLAM   0.396   INSR        . 
+# sample07               392 Y   QPMFYFLAM   0.378   SRC         . 
+# sample07               392 Y   QPMFYFLAM   0.337   EGFR        . 
+# sample07               392 Y   QPMFYFLAM   0.006   unsp        . 
+#
+# sample07               410 Y   TWSPYHSIP   0.756   unsp       YES
+# sample07               410 Y   TWSPYHSIP   0.481   SRC         . 
+# sample07               410 Y   TWSPYHSIP   0.456   INSR        . 
+# sample07               410 Y   TWSPYHSIP   0.379   EGFR        . 
+#
+# sample07               421 Y   KLDEYIAIA   0.910   unsp       YES
+# sample07               421 Y   KLDEYIAIA   0.539   INSR       YES
+# sample07               421 Y   KLDEYIAIA   0.498   EGFR        . 
+# sample07               421 Y   KLDEYIAIA   0.468   SRC         . 
+#
+# sample07               431 Y   EKHGYNVEQ   0.524   unsp       YES
+# sample07               431 Y   EKHGYNVEQ   0.495   EGFR        . 
+# sample07               431 Y   EKHGYNVEQ   0.482   INSR        . 
+# sample07               431 Y   EKHGYNVEQ   0.403   SRC         . 
+#
+# sample07               450 Y   WVLSYDWVL   0.421   INSR        . 
+# sample07               450 Y   WVLSYDWVL   0.344   EGFR        . 
+# sample07               450 Y   WVLSYDWVL   0.318   SRC         . 
+# sample07               450 Y   WVLSYDWVL   0.085   unsp        . 
+#
+# sample07               472 Y   LIQAYKGLL   0.399   INSR        . 
+# sample07               472 Y   LIQAYKGLL   0.334   EGFR        . 
+# sample07               472 Y   LIQAYKGLL   0.305   SRC         . 
+# sample07               472 Y   LIQAYKGLL   0.008   unsp        . 
+#
+# sample07               478 Y   GLLQYYTWS   0.489   INSR        . 
+# sample07               478 Y   GLLQYYTWS   0.353   EGFR        . 
+# sample07               478 Y   GLLQYYTWS   0.333   SRC         . 
+# sample07               478 Y   GLLQYYTWS   0.009   unsp        . 
+#
+# sample07               479 Y   LLQYYTWSE   0.412   INSR        . 
+# sample07               479 Y   LLQYYTWSE   0.409   SRC         . 
+# sample07               479 Y   LLQYYTWSE   0.336   EGFR        . 
+# sample07               479 Y   LLQYYTWSE   0.016   unsp        . 
+#
+# sample07               508 Y   KLVIYDHNP   0.431   INSR        . 
+# sample07               508 Y   KLVIYDHNP   0.351   EGFR        . 
+# sample07               508 Y   KLVIYDHNP   0.333   SRC         . 
+# sample07               508 Y   KLVIYDHNP   0.205   unsp        . 
+#
+# sample07               535 Y   WMDDYDYVH   0.972   unsp       YES
+# sample07               535 Y   WMDDYDYVH   0.556   INSR       YES
+# sample07               535 Y   WMDDYDYVH   0.385   SRC         . 
+# sample07               535 Y   WMDDYDYVH   0.382   EGFR        . 
+#
+# sample07               537 Y   DDYDYVHLQ   0.930   unsp       YES
+# sample07               537 Y   DDYDYVHLQ   0.572   INSR       YES
+# sample07               537 Y   DDYDYVHLQ   0.485   EGFR        . 
+# sample07               537 Y   DDYDYVHLQ   0.442   SRC         . 
+#
+# sample07               560 Y   ALQNYSQAV   0.426   INSR        . 
+# sample07               560 Y   ALQNYSQAV   0.344   EGFR        . 
+# sample07               560 Y   ALQNYSQAV   0.343   SRC         . 
+# sample07               560 Y   ALQNYSQAV   0.023   unsp        . 
+#
+# sample07               566 Y   QAVMYLQEG   0.393   INSR        . 
+# sample07               566 Y   QAVMYLQEG   0.345   EGFR        . 
+# sample07               566 Y   QAVMYLQEG   0.288   SRC         . 
+# sample07               566 Y   QAVMYLQEG   0.091   unsp        . 
+#
+# sample07               587 Y   KPDVYKSPA   0.955   unsp       YES
+# sample07               587 Y   KPDVYKSPA   0.534   INSR       YES
+# sample07               587 Y   KPDVYKSPA   0.410   SRC         . 
+# sample07               587 Y   KPDVYKSPA   0.380   EGFR        . 
+#
+# sample07               595 Y   ASDTYIVFG   0.948   unsp       YES
+# sample07               595 Y   ASDTYIVFG   0.529   INSR       YES
+# sample07               595 Y   ASDTYIVFG   0.417   SRC         . 
+# sample07               595 Y   ASDTYIVFG   0.369   EGFR        . 
+#
+# sample07               612 Y   QQFNYVTNI   0.385   INSR        . 
+# sample07               612 Y   QQFNYVTNI   0.362   EGFR        . 
+# sample07               612 Y   QQFNYVTNI   0.325   SRC         . 
+# sample07               612 Y   QQFNYVTNI   0.279   unsp        . 
+#
+# sample07               624 Y   EEFAYLRTQ   0.943   unsp       YES
+# sample07               624 Y   EEFAYLRTQ   0.625   EGFR       YES
+# sample07               624 Y   EEFAYLRTQ   0.482   INSR        . 
+# sample07               624 Y   EEFAYLRTQ   0.448   SRC         . 
+#
+# sample07               653 Y   SSQEYTDST   0.974   unsp       YES
+# sample07               653 Y   SSQEYTDST   0.513   INSR       YES
+# sample07               653 Y   SSQEYTDST   0.487   SRC         . 
+# sample07               653 Y   SSQEYTDST   0.387   EGFR        . 
+#
+# sample07               682 Y   KSEGYCSRI   0.649   unsp       YES
+# sample07               682 Y   KSEGYCSRI   0.414   INSR        . 
+# sample07               682 Y   KSEGYCSRI   0.391   EGFR        . 
+# sample07               682 Y   KSEGYCSRI   0.340   SRC         . 
+#
+# sample07               711 Y   VVSQYHELV   0.437   EGFR        . 
+# sample07               711 Y   VVSQYHELV   0.373   INSR        . 
+# sample07               711 Y   VVSQYHELV   0.348   SRC         . 
+# sample07               711 Y   VVSQYHELV   0.038   unsp        . 
+#
+# sample07               726 Y   FKREYRPQD   0.572   EGFR       YES
+# sample07               726 Y   FKREYRPQD   0.439   INSR        . 
+# sample07               726 Y   FKREYRPQD   0.320   SRC         . 
+# sample07               726 Y   FKREYRPQD   0.063   unsp        . 
+#
+# sample07               740 Y   AMIAYWTNF   0.501   INSR       YES
+# sample07               740 Y   AMIAYWTNF   0.357   SRC         . 
+# sample07               740 Y   AMIAYWTNF   0.354   EGFR        . 
+# sample07               740 Y   AMIAYWTNF   0.155   unsp        . 
+#
+# sample07               769 Y   LNDAYGPPS   0.483   SRC         . 
+# sample07               769 Y   LNDAYGPPS   0.438   EGFR        . 
+# sample07               769 Y   LNDAYGPPS   0.417   unsp        . 
+# sample07               769 Y   LNDAYGPPS   0.415   INSR        . 
+#
+# sample07               784 Y   VSNPYCKEA   0.514   INSR       YES
+# sample07               784 Y   VSNPYCKEA   0.376   SRC         . 
+# sample07               784 Y   VSNPYCKEA   0.352   EGFR        . 
+# sample07               784 Y   VSNPYCKEA   0.168   unsp        . 
+#
+# sample07               798 Y   QKRNYFMDI   0.444   INSR        . 
+# sample07               798 Y   QKRNYFMDI   0.328   EGFR        . 
+# sample07               798 Y   QKRNYFMDI   0.306   SRC         . 
+# sample07               798 Y   QKRNYFMDI   0.015   unsp        . 
+#
+# sample07               811 Y   EWIIYTNPQ   0.865   unsp       YES
+# sample07               811 Y   EWIIYTNPQ   0.610   EGFR       YES
+# sample07               811 Y   EWIIYTNPQ   0.487   INSR        . 
+# sample07               811 Y   EWIIYTNPQ   0.448   SRC         . 
+#
+# sample07               827 Y   IKLTYNHKG   0.501   INSR       YES
+# sample07               827 Y   IKLTYNHKG   0.342   EGFR        . 
+# sample07               827 Y   IKLTYNHKG   0.340   SRC         . 
+# sample07               827 Y   IKLTYNHKG   0.193   unsp        . 
+#
+# sample07               850 Y   GRGTYRSSF   0.429   INSR        . 
+# sample07               850 Y   GRGTYRSSF   0.415   SRC         . 
+# sample07               850 Y   GRGTYRSSF   0.343   EGFR        . 
+# sample07               850 Y   GRGTYRSSF   0.030   unsp        . 
+#
+# sample07               856 Y   SSFAYKDQN   0.920   unsp       YES
+# sample07               856 Y   SSFAYKDQN   0.407   INSR        . 
+# sample07               856 Y   SSFAYKDQN   0.378   SRC         . 
+# sample07               856 Y   SSFAYKDQN   0.367   EGFR        . 
+#
+# sample07               885 Y   ASLCYSLVT   0.460   INSR        . 
+# sample07               885 Y   ASLCYSLVT   0.409   SRC         . 
+# sample07               885 Y   ASLCYSLVT   0.351   EGFR        . 
+# sample07               885 Y   ASLCYSLVT   0.072   unsp        . 
+#
+# sample07               897 Y   NPLIYSLKI   0.367   INSR        . 
+# sample07               897 Y   NPLIYSLKI   0.365   SRC         . 
+# sample07               897 Y   NPLIYSLKI   0.325   EGFR        . 
+# sample07               897 Y   NPLIYSLKI   0.023   unsp        . 
+#
+# sample07               914 Y   IPRTYQEYE   0.433   INSR        . 
+# sample07               914 Y   IPRTYQEYE   0.433   SRC         . 
+# sample07               914 Y   IPRTYQEYE   0.400   EGFR        . 
+# sample07               914 Y   IPRTYQEYE   0.023   unsp        . 
+#
+# sample07               917 Y   TYQEYESSL   0.487   INSR        . 
+# sample07               917 Y   TYQEYESSL   0.448   SRC         . 
+# sample07               917 Y   TYQEYESSL   0.402   unsp        . 
+# sample07               917 Y   TYQEYESSL   0.375   EGFR        . 
+#
+# sample07               938 Y   RKESYSVYV   0.786   unsp       YES
+# sample07               938 Y   RKESYSVYV   0.521   INSR       YES
+# sample07               938 Y   RKESYSVYV   0.385   SRC         . 
+# sample07               938 Y   RKESYSVYV   0.328   EGFR        . 
+#
+# sample07               941 Y   SYSVYVYKV   0.427   INSR        . 
+# sample07               941 Y   SYSVYVYKV   0.368   unsp        . 
+# sample07               941 Y   SYSVYVYKV   0.364   SRC         . 
+# sample07               941 Y   SYSVYVYKV   0.350   EGFR        . 
+#
+# sample07               943 Y   SVYVYKVLK   0.366   SRC         . 
+# sample07               943 Y   SVYVYKVLK   0.365   INSR        . 
+# sample07               943 Y   SVYVYKVLK   0.325   EGFR        . 
+# sample07               943 Y   SVYVYKVLK   0.061   unsp        . 
+#
+# sample07               962 Y   GIAIYTSMM   0.431   INSR        . 
+# sample07               962 Y   GIAIYTSMM   0.411   SRC         . 
+# sample07               962 Y   GIAIYTSMM   0.376   EGFR        . 
+# sample07               962 Y   GIAIYTSMM   0.052   unsp        . 
+#
+# sample07               971 Y   TSDNYYYTH   0.581   INSR       YES
+# sample07               971 Y   TSDNYYYTH   0.410   unsp        . 
+# sample07               971 Y   TSDNYYYTH   0.403   SRC         . 
+# sample07               971 Y   TSDNYYYTH   0.332   EGFR        . 
+#
+# sample07               972 Y   SDNYYYTHS   0.746   unsp       YES
+# sample07               972 Y   SDNYYYTHS   0.492   SRC         . 
+# sample07               972 Y   SDNYYYTHS   0.490   INSR        . 
+# sample07               972 Y   SDNYYYTHS   0.354   EGFR        . 
+#
+# sample07               973 Y   DNYYYTHSI   0.470   SRC         . 
+# sample07               973 Y   DNYYYTHSI   0.417   INSR        . 
+# sample07               973 Y   DNYYYTHSI   0.352   EGFR        . 
+# sample07               973 Y   DNYYYTHSI   0.173   unsp        . 
+#
+# sample07               987 Y   AGSAYPWMQ   0.631   EGFR       YES
+# sample07               987 Y   AGSAYPWMQ   0.414   SRC         . 
+# sample07               987 Y   AGSAYPWMQ   0.410   INSR        . 
+# sample07               987 Y   AGSAYPWMQ   0.258   unsp        . 
+#
+# sample07              1001 Y   SGVGYGADR   0.437   INSR        . 
+# sample07              1001 Y   SGVGYGADR   0.387   SRC         . 
+# sample07              1001 Y   SGVGYGADR   0.377   EGFR        . 
+# sample07              1001 Y   SGVGYGADR   0.212   unsp        . 
+#
+# sample07              1012 Y   GRQIYSRYG   0.464   INSR        . 
+# sample07              1012 Y   GRQIYSRYG   0.344   EGFR        . 
+# sample07              1012 Y   GRQIYSRYG   0.324   SRC         . 
+# sample07              1012 Y   GRQIYSRYG   0.156   unsp        . 
+#
+# sample07              1015 Y   IYSRYGILT   0.435   EGFR        . 
+# sample07              1015 Y   IYSRYGILT   0.388   INSR        . 
+# sample07              1015 Y   IYSRYGILT   0.363   SRC         . 
+# sample07              1015 Y   IYSRYGILT   0.031   unsp        . 
+#
+# sample07              1030 Y   QIHGYILTY   0.433   EGFR        . 
+# sample07              1030 Y   QIHGYILTY   0.385   INSR        . 
+# sample07              1030 Y   QIHGYILTY   0.306   SRC         . 
+# sample07              1030 Y   QIHGYILTY   0.045   unsp        . 
+#
+# sample07              1034 Y   YILTYQFPD   0.444   INSR        . 
+# sample07              1034 Y   YILTYQFPD   0.352   EGFR        . 
+# sample07              1034 Y   YILTYQFPD   0.350   SRC         . 
+# sample07              1034 Y   YILTYQFPD   0.074   unsp        . 
+#
+# sample07              1059 Y   NSSPYSKPT   0.679   unsp       YES
+# sample07              1059 Y   NSSPYSKPT   0.457   EGFR        . 
+# sample07              1059 Y   NSSPYSKPT   0.428   SRC         . 
+# sample07              1059 Y   NSSPYSKPT   0.410   INSR        . 
+#
+# sample07              1088 Y   GNVMYKKGK   0.493   INSR        . 
+# sample07              1088 Y   GNVMYKKGK   0.392   EGFR        . 
+# sample07              1088 Y   GNVMYKKGK   0.389   SRC         . 
+# sample07              1088 Y   GNVMYKKGK   0.119   unsp        . 
+#
+# sample07              1100 Y   AAQRYQYEA   0.429   EGFR        . 
+# sample07              1100 Y   AAQRYQYEA   0.402   INSR        . 
+# sample07              1100 Y   AAQRYQYEA   0.327   SRC         . 
+# sample07              1100 Y   AAQRYQYEA   0.138   unsp        . 
+#
+# sample07              1102 Y   QRYQYEAEQ   0.430   SRC         . 
+# sample07              1102 Y   QRYQYEAEQ   0.426   INSR        . 
+# sample07              1102 Y   QRYQYEAEQ   0.349   EGFR        . 
+# sample07              1102 Y   QRYQYEAEQ   0.054   unsp        . 
+#
+# sample07              1117 Y   LELQYVLDK   0.399   INSR        . 
+# sample07              1117 Y   LELQYVLDK   0.388   SRC         . 
+# sample07              1117 Y   LELQYVLDK   0.383   unsp        . 
+# sample07              1117 Y   LELQYVLDK   0.331   EGFR        . 
+#
+# sample07              1146 Y   EIENYPHFF   0.429   INSR        . 
+# sample07              1146 Y   EIENYPHFF   0.357   EGFR        . 
+# sample07              1146 Y   EIENYPHFF   0.337   SRC         . 
+# sample07              1146 Y   EIENYPHFF   0.040   unsp        . 
+#
+# sample07              1175 Y   SLPQYQATM   0.433   INSR        . 
+# sample07              1175 Y   SLPQYQATM   0.402   SRC         . 
+# sample07              1175 Y   SLPQYQATM   0.367   unsp        . 
+# sample07              1175 Y   SLPQYQATM   0.342   EGFR        . 
+#
+# sample07              1185 Y   DGKLYNFCN   0.435   INSR        . 
+# sample07              1185 Y   DGKLYNFCN   0.380   SRC         . 
+# sample07              1185 Y   DGKLYNFCN   0.362   EGFR        . 
+# sample07              1185 Y   DGKLYNFCN   0.052   unsp        . 
+#
+# sample07              1204 Y   NKRMYDAKR   0.466   EGFR        . 
+# sample07              1204 Y   NKRMYDAKR   0.419   INSR        . 
+# sample07              1204 Y   NKRMYDAKR   0.350   SRC         . 
+# sample07              1204 Y   NKRMYDAKR   0.138   unsp        . 
+#
+# sample07              1233 Y   TVKVYFDLR   0.419   INSR        . 
+# sample07              1233 Y   TVKVYFDLR   0.373   SRC         . 
+# sample07              1233 Y   TVKVYFDLR   0.345   EGFR        . 
+# sample07              1233 Y   TVKVYFDLR   0.033   unsp        . 
+#
+# sample07              1262 Y   SASLYLLMR   0.467   unsp        . 
+# sample07              1262 Y   SASLYLLMR   0.390   INSR        . 
+# sample07              1262 Y   SASLYLLMR   0.346   SRC         . 
+# sample07              1262 Y   SASLYLLMR   0.334   EGFR        . 
+#
+# sample07              1291 Y   SVEEYVLPK   0.958   unsp       YES
+# sample07              1291 Y   SVEEYVLPK   0.374   SRC         . 
+# sample07              1291 Y   SVEEYVLPK   0.373   EGFR        . 
+# sample07              1291 Y   SVEEYVLPK   0.363   INSR        . 
+#
+# sample07              1320 Y   GQIDYLTEA   0.411   INSR        . 
+# sample07              1320 Y   GQIDYLTEA   0.355   EGFR        . 
+# sample07              1320 Y   GQIDYLTEA   0.303   SRC         . 
+# sample07              1320 Y   GQIDYLTEA   0.176   unsp        . 
+#
+# sample07              1349 Y   KGTLYIVEQ   0.457   INSR        . 
+# sample07              1349 Y   KGTLYIVEQ   0.427   SRC         . 
+# sample07              1349 Y   KGTLYIVEQ   0.368   EGFR        . 
+# sample07              1349 Y   KGTLYIVEQ   0.327   unsp        . 
+#
+# sample07              1357 Y   QIPTYVEYS   0.553   EGFR       YES
+# sample07              1357 Y   QIPTYVEYS   0.505   unsp       YES
+# sample07              1357 Y   QIPTYVEYS   0.450   SRC         . 
+# sample07              1357 Y   QIPTYVEYS   0.365   INSR        . 
+#
+# sample07              1360 Y   TYVEYSEQQ   0.615   EGFR       YES
+# sample07              1360 Y   TYVEYSEQQ   0.466   SRC         . 
+# sample07              1360 Y   TYVEYSEQQ   0.429   INSR        . 
+# sample07              1360 Y   TYVEYSEQQ   0.046   unsp        . 
+#
+# sample07              1378 Y   EECSYSDPS   0.980   unsp       YES
+# sample07              1378 Y   EECSYSDPS   0.528   SRC        YES
+# sample07              1378 Y   EECSYSDPS   0.451   INSR        . 
+# sample07              1378 Y   EECSYSDPS   0.438   EGFR        . 
+#
+# sample07              1399 Y   LNDRYPKKL   0.444   INSR        . 
+# sample07              1399 Y   LNDRYPKKL   0.374   EGFR        . 
+# sample07              1399 Y   LNDRYPKKL   0.364   SRC         . 
+# sample07              1399 Y   LNDRYPKKL   0.335   unsp        . 
+#
+# sample07              1407 Y   LVQTYSVFP   0.400   SRC         . 
+# sample07              1407 Y   LVQTYSVFP   0.398   INSR        . 
+# sample07              1407 Y   LVQTYSVFP   0.328   EGFR        . 
+# sample07              1407 Y   LVQTYSVFP   0.025   unsp        . 
+#
+# sample07              1412 Y   SVFPYQDEM   0.402   INSR        . 
+# sample07              1412 Y   SVFPYQDEM   0.387   unsp        . 
+# sample07              1412 Y   SVFPYQDEM   0.346   SRC         . 
+# sample07              1412 Y   SVFPYQDEM   0.331   EGFR        . 
+#
+# sample07              1436 Y   EIATYRKLL   0.476   INSR        . 
+# sample07              1436 Y   EIATYRKLL   0.435   EGFR        . 
+# sample07              1436 Y   EIATYRKLL   0.361   SRC         . 
+# sample07              1436 Y   EIATYRKLL   0.018   unsp        . 
+#
+# sample07              1465 Y   NFCRYLVHL   0.407   INSR        . 
+# sample07              1465 Y   NFCRYLVHL   0.340   EGFR        . 
+# sample07              1465 Y   NFCRYLVHL   0.336   SRC         . 
+# sample07              1465 Y   NFCRYLVHL   0.033   unsp        . 
+#
+# sample07              1474 Y   ADTIYRNSI   0.668   unsp       YES
+# sample07              1474 Y   ADTIYRNSI   0.477   INSR        . 
+# sample07              1474 Y   ADTIYRNSI   0.445   EGFR        . 
+# sample07              1474 Y   ADTIYRNSI   0.412   SRC         . 
+#
+# sample07              1484 Y   IMGTYKNAA   0.871   unsp       YES
+# sample07              1484 Y   IMGTYKNAA   0.476   INSR        . 
+# sample07              1484 Y   IMGTYKNAA   0.427   SRC         . 
+# sample07              1484 Y   IMGTYKNAA   0.359   EGFR        . 
+#
+# sample07              1494 Y   MVDLYVDLI   0.824   unsp       YES
+# sample07              1494 Y   MVDLYVDLI   0.437   INSR        . 
+# sample07              1494 Y   MVDLYVDLI   0.380   SRC         . 
+# sample07              1494 Y   MVDLYVDLI   0.355   EGFR        . 
+#
+# sample07              1501 Y   LINKYPSII   0.490   INSR        . 
+# sample07              1501 Y   LINKYPSII   0.366   SRC         . 
+# sample07              1501 Y   LINKYPSII   0.333   EGFR        . 
+# sample07              1501 Y   LINKYPSII   0.019   unsp        . 
+#
+# sample07              1523 Y   PGCAYPGSP   0.401   INSR        . 
+# sample07              1523 Y   PGCAYPGSP   0.352   SRC         . 
+# sample07              1523 Y   PGCAYPGSP   0.352   EGFR        . 
+# sample07              1523 Y   PGCAYPGSP   0.070   unsp        . 
+#
+# sample07              1552 Y   LLRDYLTRH   0.406   INSR        . 
+# sample07              1552 Y   LLRDYLTRH   0.354   EGFR        . 
+# sample07              1552 Y   LLRDYLTRH   0.290   SRC         . 
+# sample07              1552 Y   LLRDYLTRH   0.010   unsp        . 
+#
+# sample07              1581 Y   PAGAYRSPS   0.536   EGFR       YES
+# sample07              1581 Y   PAGAYRSPS   0.388   INSR        . 
+# sample07              1581 Y   PAGAYRSPS   0.364   SRC         . 
+# sample07              1581 Y   PAGAYRSPS   0.277   unsp        . 
+#
+# sample07              1610 Y   WKWQYPVQI   0.484   INSR        . 
+# sample07              1610 Y   WKWQYPVQI   0.421   EGFR        . 
+# sample07              1610 Y   WKWQYPVQI   0.324   SRC         . 
+# sample07              1610 Y   WKWQYPVQI   0.027   unsp        . 
+#
+# sample07              1639 Y   APDSYIGIG   0.923   unsp       YES
+# sample07              1639 Y   APDSYIGIG   0.544   INSR       YES
+# sample07              1639 Y   APDSYIGIG   0.362   EGFR        . 
+# sample07              1639 Y   APDSYIGIG   0.342   SRC         . 
+#
+# sample07              1668 Y   VASAYFKDF   0.449   INSR        . 
+# sample07              1668 Y   VASAYFKDF   0.410   EGFR        . 
+# sample07              1668 Y   VASAYFKDF   0.348   SRC         . 
+# sample07              1668 Y   VASAYFKDF   0.014   unsp        . 
+#
+# sample07              1683 Y   VICLYTGYK   0.438   INSR        . 
+# sample07              1683 Y   VICLYTGYK   0.344   SRC         . 
+# sample07              1683 Y   VICLYTGYK   0.337   EGFR        . 
+# sample07              1683 Y   VICLYTGYK   0.009   unsp        . 
+#
+# sample07              1686 Y   LYTGYKIPL   0.404   INSR        . 
+# sample07              1686 Y   LYTGYKIPL   0.396   EGFR        . 
+# sample07              1686 Y   LYTGYKIPL   0.312   SRC         . 
+# sample07              1686 Y   LYTGYKIPL   0.128   unsp        . 
+#
+# sample07              1697 Y   TLDQYFEYI   0.451   INSR        . 
+# sample07              1697 Y   TLDQYFEYI   0.425   SRC         . 
+# sample07              1697 Y   TLDQYFEYI   0.345   EGFR        . 
+# sample07              1697 Y   TLDQYFEYI   0.059   unsp        . 
+#
+# sample07              1700 Y   QYFEYIQSL   0.560   EGFR       YES
+# sample07              1700 Y   QYFEYIQSL   0.410   INSR        . 
+# sample07              1700 Y   QYFEYIQSL   0.362   SRC         . 
+# sample07              1700 Y   QYFEYIQSL   0.193   unsp        . 
+#
+# sample07              1714 Y   PEFSYPQQI   0.501   INSR       YES
+# sample07              1714 Y   PEFSYPQQI   0.380   EGFR        . 
+# sample07              1714 Y   PEFSYPQQI   0.375   SRC         . 
+# sample07              1714 Y   PEFSYPQQI   0.298   unsp        . 
+#
+# sample07              1726 Y   KSPAYFITE   0.655   unsp       YES
+# sample07              1726 Y   KSPAYFITE   0.451   EGFR        . 
+# sample07              1726 Y   KSPAYFITE   0.404   SRC         . 
+# sample07              1726 Y   KSPAYFITE   0.399   INSR        . 
+#
+# sample07              1737 Y   PERIYKMNK   0.888   unsp       YES
+# sample07              1737 Y   PERIYKMNK   0.455   SRC         . 
+# sample07              1737 Y   PERIYKMNK   0.376   INSR        . 
+# sample07              1737 Y   PERIYKMNK   0.341   EGFR        . 
+#
+# sample07              1755 Y   HTLSYVDVG   0.970   unsp       YES
+# sample07              1755 Y   HTLSYVDVG   0.514   INSR       YES
+# sample07              1755 Y   HTLSYVDVG   0.351   SRC         . 
+# sample07              1755 Y   HTLSYVDVG   0.342   EGFR        . 
+#
+# sample07              1767 Y   VTLEYRPLY   0.427   EGFR        . 
+# sample07              1767 Y   VTLEYRPLY   0.359   INSR        . 
+# sample07              1767 Y   VTLEYRPLY   0.355   SRC         . 
+# sample07              1767 Y   VTLEYRPLY   0.022   unsp        . 
+#
+# sample07              1771 Y   YRPLYRFQI   0.375   EGFR        . 
+# sample07              1771 Y   YRPLYRFQI   0.371   INSR        . 
+# sample07              1771 Y   YRPLYRFQI   0.329   SRC         . 
+# sample07              1771 Y   YRPLYRFQI   0.027   unsp        . 
+#
+# sample07              1784 Y   TATFYFPVG   0.506   INSR       YES
+# sample07              1784 Y   TATFYFPVG   0.410   SRC         . 
+# sample07              1784 Y   TATFYFPVG   0.383   EGFR        . 
+# sample07              1784 Y   TATFYFPVG   0.153   unsp        . 
+#
+# sample07              1795 Y   TGFLYLVNT   0.413   INSR        . 
+# sample07              1795 Y   TGFLYLVNT   0.383   SRC         . 
+# sample07              1795 Y   TGFLYLVNT   0.333   EGFR        . 
+# sample07              1795 Y   TGFLYLVNT   0.133   unsp        . 
+#
+# sample07              1813 Y   CADKYYDAL   0.958   unsp       YES
+# sample07              1813 Y   CADKYYDAL   0.552   INSR       YES
+# sample07              1813 Y   CADKYYDAL   0.389   SRC         . 
+# sample07              1813 Y   CADKYYDAL   0.384   EGFR        . 
+#
+# sample07              1814 Y   ADKYYDALV   0.476   INSR        . 
+# sample07              1814 Y   ADKYYDALV   0.467   SRC         . 
+# sample07              1814 Y   ADKYYDALV   0.338   EGFR        . 
+# sample07              1814 Y   ADKYYDALV   0.125   unsp        . 
+#
+# sample07              1828 Y   KSERYYRCR   0.443   unsp        . 
+# sample07              1828 Y   KSERYYRCR   0.436   INSR        . 
+# sample07              1828 Y   KSERYYRCR   0.382   EGFR        . 
+# sample07              1828 Y   KSERYYRCR   0.357   SRC         . 
+#
+# sample07              1829 Y   SERYYRCRV   0.450   SRC         . 
+# sample07              1829 Y   SERYYRCRV   0.415   INSR        . 
+# sample07              1829 Y   SERYYRCRV   0.339   EGFR        . 
+# sample07              1829 Y   SERYYRCRV   0.252   unsp        . 
+#
+# sample07              1842 Y   SQTCYEVNF   0.605   unsp       YES
+# sample07              1842 Y   SQTCYEVNF   0.468   SRC         . 
+# sample07              1842 Y   SQTCYEVNF   0.415   INSR        . 
+# sample07              1842 Y   SQTCYEVNF   0.331   EGFR        . 
+#
+# sample07              1851 Y   DDGSYSDNL   0.972   unsp       YES
+# sample07              1851 Y   DDGSYSDNL   0.465   INSR        . 
+# sample07              1851 Y   DDGSYSDNL   0.439   SRC         . 
+# sample07              1851 Y   DDGSYSDNL   0.331   EGFR        . 
+#
+# sample07              1856 Y   SDNLYDLFG   0.864   unsp       YES
+# sample07              1856 Y   SDNLYDLFG   0.416   INSR        . 
+# sample07              1856 Y   SDNLYDLFG   0.385   SRC         . 
+# sample07              1856 Y   SDNLYDLFG   0.331   EGFR        . 
+#
+# sample07              1871 Y   LKKKYEGHW   0.505   INSR       YES
+# sample07              1871 Y   LKKKYEGHW   0.330   EGFR        . 
+# sample07              1871 Y   LKKKYEGHW   0.323   SRC         . 
+# sample07              1871 Y   LKKKYEGHW   0.159   unsp        . 
+#
+# sample07              1876 Y   EGHWYPEKP   0.434   EGFR        . 
+# sample07              1876 Y   EGHWYPEKP   0.433   INSR        . 
+# sample07              1876 Y   EGHWYPEKP   0.414   SRC         . 
+# sample07              1876 Y   EGHWYPEKP   0.304   unsp        . 
+#
+# sample07              1900 Y   RNVEYYQSN   0.830   unsp       YES
+# sample07              1900 Y   RNVEYYQSN   0.485   SRC         . 
+# sample07              1900 Y   RNVEYYQSN   0.451   EGFR        . 
+# sample07              1900 Y   RNVEYYQSN   0.420   INSR        . 
+#
+# sample07              1901 Y   NVEYYQSNY   0.886   unsp       YES
+# sample07              1901 Y   NVEYYQSNY   0.438   SRC         . 
+# sample07              1901 Y   NVEYYQSNY   0.418   INSR        . 
+# sample07              1901 Y   NVEYYQSNY   0.411   EGFR        . 
+#
+# sample07              1905 Y   YQSNYVFVF   0.447   unsp        . 
+# sample07              1905 Y   YQSNYVFVF   0.405   INSR        . 
+# sample07              1905 Y   YQSNYVFVF   0.393   EGFR        . 
+# sample07              1905 Y   YQSNYVFVF   0.369   SRC         . 
+#
+# sample07              1929 Y   AEAWYQTKF   0.540   EGFR       YES
+# sample07              1929 Y   AEAWYQTKF   0.410   INSR        . 
+# sample07              1929 Y   AEAWYQTKF   0.387   SRC         . 
+# sample07              1929 Y   AEAWYQTKF   0.181   unsp        . 
+#
+# sample07              1957 Y   DVQMYYKPQ   0.559   EGFR       YES
+# sample07              1957 Y   DVQMYYKPQ   0.437   INSR        . 
+# sample07              1957 Y   DVQMYYKPQ   0.376   SRC         . 
+# sample07              1957 Y   DVQMYYKPQ   0.040   unsp        . 
+#
+# sample07              1958 Y   VQMYYKPQD   0.391   INSR        . 
+# sample07              1958 Y   VQMYYKPQD   0.344   SRC         . 
+# sample07              1958 Y   VQMYYKPQD   0.343   EGFR        . 
+# sample07              1958 Y   VQMYYKPQD   0.010   unsp        . 
+#
+# sample07              1987 Y   DMTPYALPV   0.744   unsp       YES
+# sample07              1987 Y   DMTPYALPV   0.490   INSR        . 
+# sample07              1987 Y   DMTPYALPV   0.430   SRC         . 
+# sample07              1987 Y   DMTPYALPV   0.332   EGFR        . 
+#
+# sample07              2003 Y   DKESYRSPG   0.980   unsp       YES
+# sample07              2003 Y   DKESYRSPG   0.549   INSR       YES
+# sample07              2003 Y   DKESYRSPG   0.387   EGFR        . 
+# sample07              2003 Y   DKESYRSPG   0.360   SRC         . 
+#
+# sample07              2016 Y   FSKFYAGQM   0.376   INSR        . 
+# sample07              2016 Y   FSKFYAGQM   0.355   EGFR        . 
+# sample07              2016 Y   FSKFYAGQM   0.352   SRC         . 
+# sample07              2016 Y   FSKFYAGQM   0.020   unsp        . 
+#
+# sample07              2045 Y   QTDLYLLRL   0.403   INSR        . 
+# sample07              2045 Y   QTDLYLLRL   0.340   EGFR        . 
+# sample07              2045 Y   QTDLYLLRL   0.328   SRC         . 
+# sample07              2045 Y   QTDLYLLRL   0.098   unsp        . 
+#
+# sample07              2055 Y   AARAYLQAL   0.443   INSR        . 
+# sample07              2055 Y   AARAYLQAL   0.424   EGFR        . 
+# sample07              2055 Y   AARAYLQAL   0.314   SRC         . 
+# sample07              2055 Y   AARAYLQAL   0.051   unsp        . 
+#
+# sample07              2074 Y   HCHAYLVEM   0.384   INSR        . 
+# sample07              2074 Y   HCHAYLVEM   0.368   SRC         . 
+# sample07              2074 Y   HCHAYLVEM   0.338   EGFR        . 
+# sample07              2074 Y   HCHAYLVEM   0.033   unsp        . 
+#
+# sample07              2103 Y   NVKDYYQKW   0.481   EGFR        . 
+# sample07              2103 Y   NVKDYYQKW   0.450   INSR        . 
+# sample07              2103 Y   NVKDYYQKW   0.335   SRC         . 
+# sample07              2103 Y   NVKDYYQKW   0.080   unsp        . 
+#
+# sample07              2104 Y   VKDYYQKWM   0.529   unsp       YES
+# sample07              2104 Y   VKDYYQKWM   0.491   INSR        . 
+# sample07              2104 Y   VKDYYQKWM   0.475   EGFR        . 
+# sample07              2104 Y   VKDYYQKWM   0.449   SRC         . 
+#
+# sample07              2132 Y   SNSSYVLNP   0.983   unsp       YES
+# sample07              2132 Y   SNSSYVLNP   0.429   INSR        . 
+# sample07              2132 Y   SNSSYVLNP   0.366   SRC         . 
+# sample07              2132 Y   SNSSYVLNP   0.364   EGFR        . 
+#
+# sample07              2150 Y   LWQAYCTRA   0.427   INSR        . 
+# sample07              2150 Y   LWQAYCTRA   0.413   EGFR        . 
+# sample07              2150 Y   LWQAYCTRA   0.322   SRC         . 
+# sample07              2150 Y   LWQAYCTRA   0.029   unsp        . 
+#
+# sample07              2161 Y   HIRAYLHDL   0.420   INSR        . 
+# sample07              2161 Y   HIRAYLHDL   0.350   EGFR        . 
+# sample07              2161 Y   HIRAYLHDL   0.293   SRC         . 
+# sample07              2161 Y   HIRAYLHDL   0.006   unsp        . 
+#
+# sample07              2190 Y   RNNAYGDHV   0.848   unsp       YES
+# sample07              2190 Y   RNNAYGDHV   0.461   SRC         . 
+# sample07              2190 Y   RNNAYGDHV   0.451   INSR        . 
+# sample07              2190 Y   RNNAYGDHV   0.402   EGFR        . 
+#
+# sample07              2202 Y   DTMKYYSGR   0.506   INSR       YES
+# sample07              2202 Y   DTMKYYSGR   0.390   SRC         . 
+# sample07              2202 Y   DTMKYYSGR   0.327   EGFR        . 
+# sample07              2202 Y   DTMKYYSGR   0.102   unsp        . 
+#
+# sample07              2203 Y   TMKYYSGRK   0.487   INSR        . 
+# sample07              2203 Y   TMKYYSGRK   0.403   SRC         . 
+# sample07              2203 Y   TMKYYSGRK   0.332   EGFR        . 
+# sample07              2203 Y   TMKYYSGRK   0.042   unsp        . 
+#
+# sample07              2219 Y   DVIDYSSSG   0.789   unsp       YES
+# sample07              2219 Y   DVIDYSSSG   0.486   INSR        . 
+# sample07              2219 Y   DVIDYSSSG   0.377   SRC         . 
+# sample07              2219 Y   DVIDYSSSG   0.333   EGFR        . 
+#
+# sample07              2238 Y   VENRYQGNP   0.847   unsp       YES
+# sample07              2238 Y   VENRYQGNP   0.472   EGFR        . 
+# sample07              2238 Y   VENRYQGNP   0.444   INSR        . 
+# sample07              2238 Y   VENRYQGNP   0.436   SRC         . 
+#
+# sample07              2248 Y   RGTCYYTLL   0.437   INSR        . 
+# sample07              2248 Y   RGTCYYTLL   0.424   EGFR        . 
+# sample07              2248 Y   RGTCYYTLL   0.356   SRC         . 
+# sample07              2248 Y   RGTCYYTLL   0.091   unsp        . 
+#
+# sample07              2249 Y   GTCYYTLLI   0.399   INSR        . 
+# sample07              2249 Y   GTCYYTLLI   0.385   SRC         . 
+# sample07              2249 Y   GTCYYTLLI   0.335   EGFR        . 
+# sample07              2249 Y   GTCYYTLLI   0.012   unsp        . 
+#
+# sample07              2255 Y   LLIDYQFTF   0.405   INSR        . 
+# sample07              2255 Y   LLIDYQFTF   0.342   EGFR        . 
+# sample07              2255 Y   LLIDYQFTF   0.302   SRC         . 
+# sample07              2255 Y   LLIDYQFTF   0.011   unsp        . 
+#
+# sample07              2277 Y   PESKYVSLI   0.981   unsp       YES
+# sample07              2277 Y   PESKYVSLI   0.438   INSR        . 
+# sample07              2277 Y   PESKYVSLI   0.425   SRC         . 
+# sample07              2277 Y   PESKYVSLI   0.417   EGFR        . 
+#
+# sample07              2284 Y   LITSYQPFS   0.392   INSR        . 
+# sample07              2284 Y   LITSYQPFS   0.340   EGFR        . 
+# sample07              2284 Y   LITSYQPFS   0.340   SRC         . 
+# sample07              2284 Y   LITSYQPFS   0.013   unsp        . 
+#
+# sample07              2306 Y   IGNGYCKFP   0.497   INSR        . 
+# sample07              2306 Y   IGNGYCKFP   0.384   EGFR        . 
+# sample07              2306 Y   IGNGYCKFP   0.344   SRC         . 
+# sample07              2306 Y   IGNGYCKFP   0.176   unsp        . 
+#
+# sample07              2321 Y   NTDFYVTVK   0.952   unsp       YES
+# sample07              2321 Y   NTDFYVTVK   0.459   INSR        . 
+# sample07              2321 Y   NTDFYVTVK   0.449   EGFR        . 
+# sample07              2321 Y   NTDFYVTVK   0.409   SRC         . 
+#
+# sample07              2335 Y   NSKLYDLPD   0.400   INSR        . 
+# sample07              2335 Y   NSKLYDLPD   0.361   SRC         . 
+# sample07              2335 Y   NSKLYDLPD   0.329   EGFR        . 
+# sample07              2335 Y   NSKLYDLPD   0.221   unsp        . 
+#
+# sample07              2347 Y   TRQFYFVKR   0.371   INSR        . 
+# sample07              2347 Y   TRQFYFVKR   0.348   SRC         . 
+# sample07              2347 Y   TRQFYFVKR   0.330   EGFR        . 
+# sample07              2347 Y   TRQFYFVKR   0.016   unsp        . 
+#
+# sample07              2361 Y   FPGLYLGYL   0.377   INSR        . 
+# sample07              2361 Y   FPGLYLGYL   0.349   EGFR        . 
+# sample07              2361 Y   FPGLYLGYL   0.310   SRC         . 
+# sample07              2361 Y   FPGLYLGYL   0.045   unsp        . 
+#
+# sample07              2364 Y   LYLGYLKLC   0.380   INSR        . 
+# sample07              2364 Y   LYLGYLKLC   0.336   EGFR        . 
+# sample07              2364 Y   LYLGYLKLC   0.296   SRC         . 
+# sample07              2364 Y   LYLGYLKLC   0.016   unsp        . 
+#
+# sample07              2379 Y   KVLVYPMAA   0.434   INSR        . 
+# sample07              2379 Y   KVLVYPMAA   0.401   EGFR        . 
+# sample07              2379 Y   KVLVYPMAA   0.400   SRC         . 
+# sample07              2379 Y   KVLVYPMAA   0.038   unsp        . 
+#
+# sample07              2393 Y   MTKIYHPNV   0.427   INSR        . 
+# sample07              2393 Y   MTKIYHPNV   0.333   SRC         . 
+# sample07              2393 Y   MTKIYHPNV   0.327   EGFR        . 
+# sample07              2393 Y   MTKIYHPNV   0.029   unsp        . 
+#
+# sample07              2422 Y   QADSYKYEH   0.602   unsp       YES
+# sample07              2422 Y   QADSYKYEH   0.468   INSR        . 
+# sample07              2422 Y   QADSYKYEH   0.336   EGFR        . 
+# sample07              2422 Y   QADSYKYEH   0.334   SRC         . 
+#
+# sample07              2424 Y   DSYKYEHLR   0.566   unsp       YES
+# sample07              2424 Y   DSYKYEHLR   0.444   INSR        . 
+# sample07              2424 Y   DSYKYEHLR   0.416   SRC         . 
+# sample07              2424 Y   DSYKYEHLR   0.334   EGFR        . 
+#
+# sample07              2430 Y   HLRWYRLNL   0.421   INSR        . 
+# sample07              2430 Y   HLRWYRLNL   0.327   EGFR        . 
+# sample07              2430 Y   HLRWYRLNL   0.298   SRC         . 
+# sample07              2430 Y   HLRWYRLNL   0.005   unsp        . 
+#
+# sample07              2451 Y   SSDIYNELK   0.949   unsp       YES
+# sample07              2451 Y   SSDIYNELK   0.462   EGFR        . 
+# sample07              2451 Y   SSDIYNELK   0.436   SRC         . 
+# sample07              2451 Y   SSDIYNELK   0.414   INSR        . 
+#
+# sample07              2458 Y   LKETYPNYL   0.677   unsp       YES
+# sample07              2458 Y   LKETYPNYL   0.495   INSR        . 
+# sample07              2458 Y   LKETYPNYL   0.375   EGFR        . 
+# sample07              2458 Y   LKETYPNYL   0.368   SRC         . 
+#
+# sample07              2461 Y   TYPNYLPLY   0.397   EGFR        . 
+# sample07              2461 Y   TYPNYLPLY   0.390   INSR        . 
+# sample07              2461 Y   TYPNYLPLY   0.347   SRC         . 
+# sample07              2461 Y   TYPNYLPLY   0.059   unsp        . 
+#
+# sample07              2465 Y   YLPLYTRYL   0.400   INSR        . 
+# sample07              2465 Y   YLPLYTRYL   0.348   SRC         . 
+# sample07              2465 Y   YLPLYTRYL   0.337   EGFR        . 
+# sample07              2465 Y   YLPLYTRYL   0.249   unsp        . 
+#
+# sample07              2468 Y   LYTRYLDFK   0.382   INSR        . 
+# sample07              2468 Y   LYTRYLDFK   0.347   SRC         . 
+# sample07              2468 Y   LYTRYLDFK   0.345   EGFR        . 
+# sample07              2468 Y   LYTRYLDFK   0.119   unsp        . 
+#
+# sample07              2480 Y   GSFVYKGGK   0.420   INSR        . 
+# sample07              2480 Y   GSFVYKGGK   0.372   SRC         . 
+# sample07              2480 Y   GSFVYKGGK   0.336   EGFR        . 
+# sample07              2480 Y   GSFVYKGGK   0.040   unsp        . 
+#
+# sample07              2486 Y   GGKIYKVPS   0.420   INSR        . 
+# sample07              2486 Y   GGKIYKVPS   0.381   SRC         . 
+# sample07              2486 Y   GGKIYKVPS   0.346   EGFR        . 
+# sample07              2486 Y   GGKIYKVPS   0.075   unsp        . 
+#
+# sample07              2509 Y   VEKSYELPD   0.811   unsp       YES
+# sample07              2509 Y   VEKSYELPD   0.474   INSR        . 
+# sample07              2509 Y   VEKSYELPD   0.445   SRC         . 
+# sample07              2509 Y   VEKSYELPD   0.374   EGFR        . 
+#
+# sample07              2530 Y   ELPTYGDSE   0.861   unsp       YES
+# sample07              2530 Y   ELPTYGDSE   0.552   SRC        YES
+# sample07              2530 Y   ELPTYGDSE   0.393   INSR        . 
+# sample07              2530 Y   ELPTYGDSE   0.366   EGFR        . 
+#
+# sample07              2538 Y   EKMTYTEQA   0.661   unsp       YES
+# sample07              2538 Y   EKMTYTEQA   0.566   EGFR       YES
+# sample07              2538 Y   EKMTYTEQA   0.517   INSR       YES
+# sample07              2538 Y   EKMTYTEQA   0.440   SRC         . 
+#
+# sample07              2547 Y   SKRHYCMRL   0.406   INSR        . 
+# sample07              2547 Y   SKRHYCMRL   0.328   EGFR        . 
+# sample07              2547 Y   SKRHYCMRL   0.302   SRC         . 
+# sample07              2547 Y   SKRHYCMRL   0.263   unsp        . 
+#
+# sample07              2567 Y   RSFRYYLFS   0.425   INSR        . 
+# sample07              2567 Y   RSFRYYLFS   0.354   SRC         . 
+# sample07              2567 Y   RSFRYYLFS   0.340   EGFR        . 
+# sample07              2567 Y   RSFRYYLFS   0.042   unsp        . 
+#
+# sample07              2568 Y   SFRYYLFSL   0.394   INSR        . 
+# sample07              2568 Y   SFRYYLFSL   0.334   EGFR        . 
+# sample07              2568 Y   SFRYYLFSL   0.322   SRC         . 
+# sample07              2568 Y   SFRYYLFSL   0.063   unsp        . 
+#
+# sample07              2581 Y   SRDAYAASP   0.968   unsp       YES
+# sample07              2581 Y   SRDAYAASP   0.483   SRC         . 
+# sample07              2581 Y   SRDAYAASP   0.475   INSR        . 
+# sample07              2581 Y   SRDAYAASP   0.359   EGFR        . 
+#
+# sample07              2595 Y   TTTGYYKDI   0.486   INSR        . 
+# sample07              2595 Y   TTTGYYKDI   0.375   EGFR        . 
+# sample07              2595 Y   TTTGYYKDI   0.366   SRC         . 
+# sample07              2595 Y   TTTGYYKDI   0.039   unsp        . 
+#
+# sample07              2596 Y   TTGYYKDIV   0.614   unsp       YES
+# sample07              2596 Y   TTGYYKDIV   0.462   SRC         . 
+# sample07              2596 Y   TTGYYKDIV   0.439   INSR        . 
+# sample07              2596 Y   TTGYYKDIV   0.336   EGFR        . 
+#
+# sample07              2625 Y   AKFDYYMPA   0.879   unsp       YES
+# sample07              2625 Y   AKFDYYMPA   0.503   EGFR       YES
+# sample07              2625 Y   AKFDYYMPA   0.485   INSR        . 
+# sample07              2625 Y   AKFDYYMPA   0.337   SRC         . 
+#
+# sample07              2626 Y   KFDYYMPAI   0.535   INSR       YES
+# sample07              2626 Y   KFDYYMPAI   0.461   SRC         . 
+# sample07              2626 Y   KFDYYMPAI   0.341   EGFR        . 
+# sample07              2626 Y   KFDYYMPAI   0.207   unsp        . 
+#
+# sample07              2654 Y   GGLMYAVCL   0.462   INSR        . 
+# sample07              2654 Y   GGLMYAVCL   0.356   SRC         . 
+# sample07              2654 Y   GGLMYAVCL   0.340   EGFR        . 
+# sample07              2654 Y   GGLMYAVCL   0.022   unsp        . 
+#
+# sample07              2678 Y   HSITYKTSH   0.471   INSR        . 
+# sample07              2678 Y   HSITYKTSH   0.368   SRC         . 
+# sample07              2678 Y   HSITYKTSH   0.334   EGFR        . 
+# sample07              2678 Y   HSITYKTSH   0.207   unsp        . 
+#
+# sample07              2683 Y   KTSHYTNGA   0.882   unsp       YES
+# sample07              2683 Y   KTSHYTNGA   0.460   INSR        . 
+# sample07              2683 Y   KTSHYTNGA   0.398   EGFR        . 
+# sample07              2683 Y   KTSHYTNGA   0.347   SRC         . 
+#
+# sample07              2712 Y   SDSGYEPSF   0.885   unsp       YES
+# sample07              2712 Y   SDSGYEPSF   0.482   SRC         . 
+# sample07              2712 Y   SDSGYEPSF   0.449   INSR        . 
+# sample07              2712 Y   SDSGYEPSF   0.378   EGFR        . 
+#
+# sample07              2741 Y   ARDDYKTLV   0.844   unsp       YES
+# sample07              2741 Y   ARDDYKTLV   0.554   INSR       YES
+# sample07              2741 Y   ARDDYKTLV   0.383   EGFR        . 
+# sample07              2741 Y   ARDDYKTLV   0.338   SRC         . 
+#
+# sample07              2770 Y   KKNFYFLEM   0.439   INSR        . 
+# sample07              2770 Y   KKNFYFLEM   0.353   SRC         . 
+# sample07              2770 Y   KKNFYFLEM   0.327   EGFR        . 
+# sample07              2770 Y   KKNFYFLEM   0.028   unsp        . 
+#
+# sample07              2799 Y   METIYDLGT   0.699   unsp       YES
+# sample07              2799 Y   METIYDLGT   0.480   SRC         . 
+# sample07              2799 Y   METIYDLGT   0.400   INSR        . 
+# sample07              2799 Y   METIYDLGT   0.377   EGFR        . 
+#
+# sample07              2822 Y   EEMDYAPDD   0.887   unsp       YES
+# sample07              2822 Y   EEMDYAPDD   0.468   SRC         . 
+# sample07              2822 Y   EEMDYAPDD   0.442   INSR        . 
+# sample07              2822 Y   EEMDYAPDD   0.407   EGFR        . 
+#
+# sample07              2828 Y   PDDVYDYKI   0.738   unsp       YES
+# sample07              2828 Y   PDDVYDYKI   0.468   SRC         . 
+# sample07              2828 Y   PDDVYDYKI   0.458   INSR        . 
+# sample07              2828 Y   PDDVYDYKI   0.339   EGFR        . 
+#
+# sample07              2830 Y   DVYDYKIAR   0.498   EGFR        . 
+# sample07              2830 Y   DVYDYKIAR   0.424   INSR        . 
+# sample07              2830 Y   DVYDYKIAR   0.351   SRC         . 
+# sample07              2830 Y   DVYDYKIAR   0.297   unsp        . 
+#
+# sample07              2836 Y   IAREYNWNV   0.384   INSR        . 
+# sample07              2836 Y   IAREYNWNV   0.383   EGFR        . 
+# sample07              2836 Y   IAREYNWNV   0.366   SRC         . 
+# sample07              2836 Y   IAREYNWNV   0.026   unsp        . 
+#
+# sample07              2853 Y   DDAEYPREY   0.572   unsp       YES
+# sample07              2853 Y   DDAEYPREY   0.489   SRC         . 
+# sample07              2853 Y   DDAEYPREY   0.442   INSR        . 
+# sample07              2853 Y   DDAEYPREY   0.424   EGFR        . 
+#
+# sample07              2857 Y   YPREYRTLG   0.514   INSR       YES
+# sample07              2857 Y   YPREYRTLG   0.416   EGFR        . 
+# sample07              2857 Y   YPREYRTLG   0.346   SRC         . 
+# sample07              2857 Y   YPREYRTLG   0.105   unsp        . 
+#
+# sample07              2886 Y   SKLIYTYSG   0.945   unsp       YES
+# sample07              2886 Y   SKLIYTYSG   0.463   INSR        . 
+# sample07              2886 Y   SKLIYTYSG   0.352   SRC         . 
+# sample07              2886 Y   SKLIYTYSG   0.345   EGFR        . 
+#
+# sample07              2888 Y   LIYTYSGII   0.418   INSR        . 
+# sample07              2888 Y   LIYTYSGII   0.370   SRC         . 
+# sample07              2888 Y   LIYTYSGII   0.327   EGFR        . 
+# sample07              2888 Y   LIYTYSGII   0.005   unsp        . 
+#
+# sample07              2899 Y   AMNPYK---   0.539   unsp       YES
+# sample07              2899 Y   AMNPYK---   0.459   INSR        . 
+# sample07              2899 Y   AMNPYK---   0.379   SRC         . 
+# sample07              2899 Y   AMNPYK---   0.356   EGFR        . 
+#
+# sample08                15 Y   GERPYKCDD   0.526   unsp       YES
+# sample08                15 Y   GERPYKCDD   0.467   INSR        . 
+# sample08                15 Y   GERPYKCDD   0.395   SRC         . 
+# sample08                15 Y   GERPYKCDD   0.350   EGFR        . 
+#
+# sample08                38 Y   LNEIYSYVS   0.640   unsp       YES
+# sample08                38 Y   LNEIYSYVS   0.470   SRC         . 
+# sample08                38 Y   LNEIYSYVS   0.392   INSR        . 
+# sample08                38 Y   LNEIYSYVS   0.376   EGFR        . 
+#
+# sample08                40 Y   EIYSYVSKY   0.630   unsp       YES
+# sample08                40 Y   EIYSYVSKY   0.478   INSR        . 
+# sample08                40 Y   EIYSYVSKY   0.408   SRC         . 
+# sample08                40 Y   EIYSYVSKY   0.345   EGFR        . 
+#
+# sample08                44 Y   YVSKYSEEL   0.444   INSR        . 
+# sample08                44 Y   YVSKYSEEL   0.351   EGFR        . 
+# sample08                44 Y   YVSKYSEEL   0.342   SRC         . 
+# sample08                44 Y   YVSKYSEEL   0.211   unsp        . 
+#
+# sample08                73 Y   DGGFYDPKA   0.449   INSR        . 
+# sample08                73 Y   DGGFYDPKA   0.379   SRC         . 
+# sample08                73 Y   DGGFYDPKA   0.337   EGFR        . 
+# sample08                73 Y   DGGFYDPKA   0.213   unsp        . 
+#
+# sample08                93 Y   LKGAYQNNE   0.757   unsp       YES
+# sample08                93 Y   LKGAYQNNE   0.463   INSR        . 
+# sample08                93 Y   LKGAYQNNE   0.374   EGFR        . 
+# sample08                93 Y   LKGAYQNNE   0.371   SRC         . 
+#
+# sample08               102 Y   IKHIYAISS   0.455   unsp        . 
+# sample08               102 Y   IKHIYAISS   0.427   INSR        . 
+# sample08               102 Y   IKHIYAISS   0.394   SRC         . 
+# sample08               102 Y   IKHIYAISS   0.382   EGFR        . 
+#
+# sample08               113 Y   LSASYKADV   0.408   INSR        . 
+# sample08               113 Y   LSASYKADV   0.355   SRC         . 
+# sample08               113 Y   LSASYKADV   0.328   EGFR        . 
+# sample08               113 Y   LSASYKADV   0.017   unsp        . 
+#
+# sample08               131 Y   HGRAYYEFR   0.534   EGFR       YES
+# sample08               131 Y   HGRAYYEFR   0.389   INSR        . 
+# sample08               131 Y   HGRAYYEFR   0.367   SRC         . 
+# sample08               131 Y   HGRAYYEFR   0.030   unsp        . 
+#
+# sample08               132 Y   GRAYYEFRE   0.432   INSR        . 
+# sample08               132 Y   GRAYYEFRE   0.406   SRC         . 
+# sample08               132 Y   GRAYYEFRE   0.358   EGFR        . 
+# sample08               132 Y   GRAYYEFRE   0.033   unsp        . 
+#
+# sample08               139 Y   REEAYHSRS   0.967   unsp       YES
+# sample08               139 Y   REEAYHSRS   0.526   EGFR       YES
+# sample08               139 Y   REEAYHSRS   0.512   SRC        YES
+# sample08               139 Y   REEAYHSRS   0.395   INSR        . 
+#
+# sample08               160 Y   MKCWYHSVF   0.465   INSR        . 
+# sample08               160 Y   MKCWYHSVF   0.401   SRC         . 
+# sample08               160 Y   MKCWYHSVF   0.356   EGFR        . 
+# sample08               160 Y   MKCWYHSVF   0.087   unsp        . 
+#
+# sample08               181 Y   TPVAYGCKV   0.394   SRC         . 
+# sample08               181 Y   TPVAYGCKV   0.393   INSR        . 
+# sample08               181 Y   TPVAYGCKV   0.365   EGFR        . 
+# sample08               181 Y   TPVAYGCKV   0.041   unsp        . 
+#
+# sample08               189 Y   VESIYLNVE   0.953   unsp       YES
+# sample08               189 Y   VESIYLNVE   0.493   SRC         . 
+# sample08               189 Y   VESIYLNVE   0.461   EGFR        . 
+# sample08               189 Y   VESIYLNVE   0.428   INSR        . 
+#
+# sample08               218 Y   RRITYLQNP   0.523   unsp       YES
+# sample08               218 Y   RRITYLQNP   0.387   INSR        . 
+# sample08               218 Y   RRITYLQNP   0.355   SRC         . 
+# sample08               218 Y   RRITYLQNP   0.353   EGFR        . 
+#
+# sample08               247 Y   AEKGYEEWL   0.885   unsp       YES
+# sample08               247 Y   AEKGYEEWL   0.481   INSR        . 
+# sample08               247 Y   AEKGYEEWL   0.447   EGFR        . 
+# sample08               247 Y   AEKGYEEWL   0.397   SRC         . 
+#
+# sample08               268 Y   TVFGYSIVI   0.415   EGFR        . 
+# sample08               268 Y   TVFGYSIVI   0.414   INSR        . 
+# sample08               268 Y   TVFGYSIVI   0.351   SRC         . 
+# sample08               268 Y   TVFGYSIVI   0.056   unsp        . 
+#
+# sample08               276 Y   IHRAYKHTV   0.435   INSR        . 
+# sample08               276 Y   IHRAYKHTV   0.336   EGFR        . 
+# sample08               276 Y   IHRAYKHTV   0.297   SRC         . 
+# sample08               276 Y   IHRAYKHTV   0.013   unsp        . 
+#
+# sample08               288 Y   SERLYLPAS   0.557   unsp       YES
+# sample08               288 Y   SERLYLPAS   0.470   SRC         . 
+# sample08               288 Y   SERLYLPAS   0.392   INSR        . 
+# sample08               288 Y   SERLYLPAS   0.350   EGFR        . 
+#
+# sample08               294 Y   PASKYPKDC   0.395   INSR        . 
+# sample08               294 Y   PASKYPKDC   0.342   EGFR        . 
+# sample08               294 Y   PASKYPKDC   0.315   SRC         . 
+# sample08               294 Y   PASKYPKDC   0.215   unsp        . 
+#
+# sample08               305 Y   VERTYLKTK   0.429   SRC         . 
+# sample08               305 Y   VERTYLKTK   0.407   unsp        . 
+# sample08               305 Y   VERTYLKTK   0.387   INSR        . 
+# sample08               305 Y   VERTYLKTK   0.380   EGFR        . 
+#
+# sample08               318 Y   RDKIYTAMT   0.795   unsp       YES
+# sample08               318 Y   RDKIYTAMT   0.562   INSR       YES
+# sample08               318 Y   RDKIYTAMT   0.539   SRC        YES
+# sample08               318 Y   RDKIYTAMT   0.491   EGFR        . 
+#
+# sample08               334 Y   RQEDYMKTI   0.856   unsp       YES
+# sample08               334 Y   RQEDYMKTI   0.494   INSR        . 
+# sample08               334 Y   RQEDYMKTI   0.384   EGFR        . 
+# sample08               334 Y   RQEDYMKTI   0.324   SRC         . 
+#
+# sample08               345 Y   LELHYQEFK   0.554   unsp       YES
+# sample08               345 Y   LELHYQEFK   0.443   SRC         . 
+# sample08               345 Y   LELHYQEFK   0.388   EGFR        . 
+# sample08               345 Y   LELHYQEFK   0.347   INSR        . 
+#
+# sample08               363 Y   DEEGYRKLI   0.880   unsp       YES
+# sample08               363 Y   DEEGYRKLI   0.528   EGFR       YES
+# sample08               363 Y   DEEGYRKLI   0.467   INSR        . 
+# sample08               363 Y   DEEGYRKLI   0.443   SRC         . 
+#
+# sample08               377 Y   RRLAYIGCD   0.445   INSR        . 
+# sample08               377 Y   RRLAYIGCD   0.398   EGFR        . 
+# sample08               377 Y   RRLAYIGCD   0.312   SRC         . 
+# sample08               377 Y   RRLAYIGCD   0.081   unsp        . 
+#
+# sample08               392 Y   LLRGYEQYA   0.429   INSR        . 
+# sample08               392 Y   LLRGYEQYA   0.339   EGFR        . 
+# sample08               392 Y   LLRGYEQYA   0.322   SRC         . 
+# sample08               392 Y   LLRGYEQYA   0.040   unsp        . 
+#
+# sample08               395 Y   GYEQYAYDG   0.433   INSR        . 
+# sample08               395 Y   GYEQYAYDG   0.394   unsp        . 
+# sample08               395 Y   GYEQYAYDG   0.343   EGFR        . 
+# sample08               395 Y   GYEQYAYDG   0.335   SRC         . 
+#
+# sample08               397 Y   EQYAYDGKD   0.419   INSR        . 
+# sample08               397 Y   EQYAYDGKD   0.349   SRC         . 
+# sample08               397 Y   EQYAYDGKD   0.338   EGFR        . 
+# sample08               397 Y   EQYAYDGKD   0.197   unsp        . 
+#
+# sample08               402 Y   DGKDYLALN   0.508   unsp       YES
+# sample08               402 Y   DGKDYLALN   0.502   EGFR       YES
+# sample08               402 Y   DGKDYLALN   0.439   INSR        . 
+# sample08               402 Y   DGKDYLALN   0.370   SRC         . 
+#
+# sample08               421 Y   DVTIYEKES   0.468   SRC         . 
+# sample08               421 Y   DVTIYEKES   0.438   INSR        . 
+# sample08               421 Y   DVTIYEKES   0.375   EGFR        . 
+# sample08               421 Y   DVTIYEKES   0.371   unsp        . 
+#
+# sample08               445 Y   FGVVYCFFG   0.405   INSR        . 
+# sample08               445 Y   FGVVYCFFG   0.335   EGFR        . 
+# sample08               445 Y   FGVVYCFFG   0.319   SRC         . 
+# sample08               445 Y   FGVVYCFFG   0.151   unsp        . 
+#
+# sample08               450 Y   CFFGYRCFK   0.399   INSR        . 
+# sample08               450 Y   CFFGYRCFK   0.344   EGFR        . 
+# sample08               450 Y   CFFGYRCFK   0.315   SRC         . 
+# sample08               450 Y   CFFGYRCFK   0.111   unsp        . 
+#
+# sample08               479 Y   SQQVYRKDP   0.393   INSR        . 
+# sample08               479 Y   SQQVYRKDP   0.340   EGFR        . 
+# sample08               479 Y   SQQVYRKDP   0.332   SRC         . 
+# sample08               479 Y   SQQVYRKDP   0.093   unsp        . 
+#
+# sample08               484 Y   RKDPYPEEM   0.823   unsp       YES
+# sample08               484 Y   RKDPYPEEM   0.467   INSR        . 
+# sample08               484 Y   RKDPYPEEM   0.400   SRC         . 
+# sample08               484 Y   RKDPYPEEM   0.368   EGFR        . 
+#
+# sample08               508 Y   IMSSYKEVT   0.782   unsp       YES
+# sample08               508 Y   IMSSYKEVT   0.468   EGFR        . 
+# sample08               508 Y   IMSSYKEVT   0.455   INSR        . 
+# sample08               508 Y   IMSSYKEVT   0.436   SRC         . 
+#
+# sample08               517 Y   ELAGYTARV   0.423   INSR        . 
+# sample08               517 Y   ELAGYTARV   0.383   EGFR        . 
+# sample08               517 Y   ELAGYTARV   0.374   SRC         . 
+# sample08               517 Y   ELAGYTARV   0.039   unsp        . 
+#
+# sample08               537 Y   FKFIYVDVL   0.980   unsp       YES
+# sample08               537 Y   FKFIYVDVL   0.434   INSR        . 
+# sample08               537 Y   FKFIYVDVL   0.385   EGFR        . 
+# sample08               537 Y   FKFIYVDVL   0.333   SRC         . 
+#
+# sample08               562 Y   WSNMYKLPY   0.410   INSR        . 
+# sample08               562 Y   WSNMYKLPY   0.367   SRC         . 
+# sample08               562 Y   WSNMYKLPY   0.347   EGFR        . 
+# sample08               562 Y   WSNMYKLPY   0.162   unsp        . 
+#
+# sample08               566 Y   YKLPYNWIG   0.753   unsp       YES
+# sample08               566 Y   YKLPYNWIG   0.527   INSR       YES
+# sample08               566 Y   YKLPYNWIG   0.373   EGFR        . 
+# sample08               566 Y   YKLPYNWIG   0.335   SRC         . 
+#
+# sample08               576 Y   GHVVYQGAF   0.409   INSR        . 
+# sample08               576 Y   GHVVYQGAF   0.400   EGFR        . 
+# sample08               576 Y   GHVVYQGAF   0.395   SRC         . 
+# sample08               576 Y   GHVVYQGAF   0.009   unsp        . 
+#
+# sample08               587 Y   HEKHYTLCG   0.550   unsp       YES
+# sample08               587 Y   HEKHYTLCG   0.486   INSR        . 
+# sample08               587 Y   HEKHYTLCG   0.400   SRC         . 
+# sample08               587 Y   HEKHYTLCG   0.362   EGFR        . 
+#
+# sample08               595 Y   GTPNYISPE   0.755   unsp       YES
+# sample08               595 Y   GTPNYISPE   0.430   EGFR        . 
+# sample08               595 Y   GTPNYISPE   0.413   SRC         . 
+# sample08               595 Y   GTPNYISPE   0.407   INSR        . 
+#
+# sample08               624 Y   SIKAYGAGL   0.431   INSR        . 
+# sample08               624 Y   SIKAYGAGL   0.349   SRC         . 
+# sample08               624 Y   SIKAYGAGL   0.343   EGFR        . 
+# sample08               624 Y   SIKAYGAGL   0.022   unsp        . 
+#
+# sample08               637 Y   GELQYCKER   0.451   INSR        . 
+# sample08               637 Y   GELQYCKER   0.406   SRC         . 
+# sample08               637 Y   GELQYCKER   0.343   EGFR        . 
+# sample08               637 Y   GELQYCKER   0.308   unsp        . 
+#
+# sample08               653 Y   DEEGYRKLI   0.880   unsp       YES
+# sample08               653 Y   DEEGYRKLI   0.528   EGFR       YES
+# sample08               653 Y   DEEGYRKLI   0.467   INSR        . 
+# sample08               653 Y   DEEGYRKLI   0.443   SRC         . 
+#
+# sample08               667 Y   KRLAYGKVL   0.430   INSR        . 
+# sample08               667 Y   KRLAYGKVL   0.423   EGFR        . 
+# sample08               667 Y   KRLAYGKVL   0.364   SRC         . 
+# sample08               667 Y   KRLAYGKVL   0.112   unsp        . 
+#
+# sample08               682 Y   TDFPYVSAA   0.962   unsp       YES
+# sample08               682 Y   TDFPYVSAA   0.519   INSR       YES
+# sample08               682 Y   TDFPYVSAA   0.503   SRC        YES
+# sample08               682 Y   TDFPYVSAA   0.411   EGFR        . 
+#
+# sample08               711 Y   LAQQYGVRG   0.405   INSR        . 
+# sample08               711 Y   LAQQYGVRG   0.345   SRC         . 
+# sample08               711 Y   LAQQYGVRG   0.337   EGFR        . 
+# sample08               711 Y   LAQQYGVRG   0.026   unsp        . 
+#
+# sample08               716 Y   GVRGYPTIK   0.394   EGFR        . 
+# sample08               716 Y   GVRGYPTIK   0.387   INSR        . 
+# sample08               716 Y   GVRGYPTIK   0.318   SRC         . 
+# sample08               716 Y   GVRGYPTIK   0.029   unsp        . 
+#
+# sample08               740 Y   GRRLYKMLC   0.362   INSR        . 
+# sample08               740 Y   GRRLYKMLC   0.327   EGFR        . 
+# sample08               740 Y   GRRLYKMLC   0.325   SRC         . 
+# sample08               740 Y   GRRLYKMLC   0.035   unsp        . 
+#
+# sample08               748 Y   CHVFYAEDA   0.407   INSR        . 
+# sample08               748 Y   CHVFYAEDA   0.391   EGFR        . 
+# sample08               748 Y   CHVFYAEDA   0.375   SRC         . 
+# sample08               748 Y   CHVFYAEDA   0.202   unsp        . 
+#
+# sample08               769 Y   PRAGYLSDG   0.379   INSR        . 
+# sample08               769 Y   PRAGYLSDG   0.340   EGFR        . 
+# sample08               769 Y   PRAGYLSDG   0.339   unsp        . 
+# sample08               769 Y   PRAGYLSDG   0.306   SRC         . 
+#
+# sample08               798 Y   GENGYVTYS   0.948   unsp       YES
+# sample08               798 Y   GENGYVTYS   0.491   EGFR        . 
+# sample08               798 Y   GENGYVTYS   0.442   INSR        . 
+# sample08               798 Y   GENGYVTYS   0.442   SRC         . 
+#
+# sample08               801 Y   GYVTYSIAG   0.459   INSR        . 
+# sample08               801 Y   GYVTYSIAG   0.435   SRC         . 
+# sample08               801 Y   GYVTYSIAG   0.366   EGFR        . 
+# sample08               801 Y   GYVTYSIAG   0.096   unsp        . 
+#
+# sample08               827 Y   PESPYGQRL   0.791   unsp       YES
+# sample08               827 Y   PESPYGQRL   0.513   INSR       YES
+# sample08               827 Y   PESPYGQRL   0.480   EGFR        . 
+# sample08               827 Y   PESPYGQRL   0.447   SRC         . 
+#
+# sample08               846 Y   RVRKYLFNY   0.372   INSR        . 
+# sample08               846 Y   RVRKYLFNY   0.366   EGFR        . 
+# sample08               846 Y   RVRKYLFNY   0.302   SRC         . 
+# sample08               846 Y   RVRKYLFNY   0.172   unsp        . 
+#
+# sample08               850 Y   YLFNYYYLK   0.428   INSR        . 
+# sample08               850 Y   YLFNYYYLK   0.336   EGFR        . 
+# sample08               850 Y   YLFNYYYLK   0.320   SRC         . 
+# sample08               850 Y   YLFNYYYLK   0.017   unsp        . 
+#
+# sample08               851 Y   LFNYYYLKE   0.499   INSR        . 
+# sample08               851 Y   LFNYYYLKE   0.405   SRC         . 
+# sample08               851 Y   LFNYYYLKE   0.325   EGFR        . 
+# sample08               851 Y   LFNYYYLKE   0.010   unsp        . 
+#
+# sample08               852 Y   FNYYYLKEY   0.415   INSR        . 
+# sample08               852 Y   FNYYYLKEY   0.406   EGFR        . 
+# sample08               852 Y   FNYYYLKEY   0.389   SRC         . 
+# sample08               852 Y   FNYYYLKEY   0.165   unsp        . 
+#
+# sample08               856 Y   YLKEYLKVV   0.434   INSR        . 
+# sample08               856 Y   YLKEYLKVV   0.364   SRC         . 
+# sample08               856 Y   YLKEYLKVV   0.343   EGFR        . 
+# sample08               856 Y   YLKEYLKVV   0.044   unsp        . 
+#
+# sample08               885 Y   TSQNYCSLE   0.510   INSR       YES
+# sample08               885 Y   TSQNYCSLE   0.383   SRC         . 
+# sample08               885 Y   TSQNYCSLE   0.356   EGFR        . 
+# sample08               885 Y   TSQNYCSLE   0.184   unsp        . 
+#
+# sample08               914 Y   INRIYGFYD   0.425   EGFR        . 
+# sample08               914 Y   INRIYGFYD   0.395   INSR        . 
+# sample08               914 Y   INRIYGFYD   0.392   SRC         . 
+# sample08               914 Y   INRIYGFYD   0.045   unsp        . 
+#
+# sample08               917 Y   IYGFYDECK   0.434   EGFR        . 
+# sample08               917 Y   IYGFYDECK   0.397   INSR        . 
+# sample08               917 Y   IYGFYDECK   0.350   SRC         . 
+# sample08               917 Y   IYGFYDECK   0.017   unsp        . 
+#
+# sample08               924 Y   CKRRYNIKL   0.496   EGFR        . 
+# sample08               924 Y   CKRRYNIKL   0.447   INSR        . 
+# sample08               924 Y   CKRRYNIKL   0.297   SRC         . 
+# sample08               924 Y   CKRRYNIKL   0.213   unsp        . 
+#
+# sample08               943 Y   APEDYSSFQ   0.921   unsp       YES
+# sample08               943 Y   APEDYSSFQ   0.512   INSR       YES
+# sample08               943 Y   APEDYSSFQ   0.427   EGFR        . 
+# sample08               943 Y   APEDYSSFQ   0.351   SRC         . 
+#
+# sample08               972 Y   GMVPYLPEL   0.433   INSR        . 
+# sample08               972 Y   GMVPYLPEL   0.329   EGFR        . 
+# sample08               972 Y   GMVPYLPEL   0.314   SRC         . 
+# sample08               972 Y   GMVPYLPEL   0.037   unsp        . 
+#
+# sample08               992 Y   TVDTYDGRG   0.527   INSR       YES
+# sample08               992 Y   TVDTYDGRG   0.400   SRC         . 
+# sample08               992 Y   TVDTYDGRG   0.345   unsp        . 
+# sample08               992 Y   TVDTYDGRG   0.342   EGFR        . 
+#
+# sample08              1001 Y   DSVVYGLRS   0.500   SRC        YES
+# sample08              1001 Y   DSVVYGLRS   0.455   INSR        . 
+# sample08              1001 Y   DSVVYGLRS   0.338   EGFR        . 
+# sample08              1001 Y   DSVVYGLRS   0.026   unsp        . 
+#
+# sample08              1030 Y   WSPTYDVSS   0.654   unsp       YES
+# sample08              1030 Y   WSPTYDVSS   0.507   SRC        YES
+# sample08              1030 Y   WSPTYDVSS   0.413   INSR        . 
+# sample08              1030 Y   WSPTYDVSS   0.335   EGFR        . 
+#
+# sample08              1059 Y   SNIIYTAKI   0.505   INSR       YES
+# sample08              1059 Y   SNIIYTAKI   0.440   unsp        . 
+# sample08              1059 Y   SNIIYTAKI   0.425   SRC         . 
+# sample08              1059 Y   SNIIYTAKI   0.343   EGFR        . 
+#
+# sample08              1080 Y   AEAKYLKGP   0.895   unsp       YES
+# sample08              1080 Y   AEAKYLKGP   0.437   INSR        . 
+# sample08              1080 Y   AEAKYLKGP   0.415   EGFR        . 
+# sample08              1080 Y   AEAKYLKGP   0.378   SRC         . 
+#
+# sample08              1088 Y   PCLGYRERE   0.385   EGFR        . 
+# sample08              1088 Y   PCLGYRERE   0.372   INSR        . 
+# sample08              1088 Y   PCLGYRERE   0.324   SRC         . 
+# sample08              1088 Y   PCLGYRERE   0.099   unsp        . 
+#
+# sample08              1100 Y   AKIIYEKAT   0.676   unsp       YES
+# sample08              1100 Y   AKIIYEKAT   0.526   EGFR       YES
+# sample08              1100 Y   AKIIYEKAT   0.446   INSR        . 
+# sample08              1100 Y   AKIIYEKAT   0.404   SRC         . 
+#
+# sample08              1117 Y   NENPYFAPN   0.922   unsp       YES
+# sample08              1117 Y   NENPYFAPN   0.558   SRC        YES
+# sample08              1117 Y   NENPYFAPN   0.546   EGFR       YES
+# sample08              1117 Y   NENPYFAPN   0.490   INSR        . 
+#
+# sample08              1133 Y   EGLMYGLPD   0.449   INSR        . 
+# sample08              1133 Y   EGLMYGLPD   0.448   SRC         . 
+# sample08              1133 Y   EGLMYGLPD   0.400   EGFR        . 
+# sample08              1133 Y   EGLMYGLPD   0.125   unsp        . 
+#
+# sample08              1146 Y   GKHEYFMHA   0.540   unsp       YES
+# sample08              1146 Y   GKHEYFMHA   0.524   INSR       YES
+# sample08              1146 Y   GKHEYFMHA   0.437   EGFR        . 
+# sample08              1146 Y   GKHEYFMHA   0.419   SRC         . 
+#
+# sample08              1163 Y   VDDCYVFLC   0.909   unsp       YES
+# sample08              1163 Y   VDDCYVFLC   0.486   EGFR        . 
+# sample08              1163 Y   VDDCYVFLC   0.421   INSR        . 
+# sample08              1163 Y   VDDCYVFLC   0.417   SRC         . 
+#
+# sample08              1169 Y   FLCRYWVPV   0.408   INSR        . 
+# sample08              1169 Y   FLCRYWVPV   0.350   EGFR        . 
+# sample08              1169 Y   FLCRYWVPV   0.340   SRC         . 
+# sample08              1169 Y   FLCRYWVPV   0.020   unsp        . 
+#
+# sample08              1175 Y   VPVEYEEEE   0.490   SRC         . 
+# sample08              1175 Y   VPVEYEEEE   0.475   INSR        . 
+# sample08              1175 Y   VPVEYEEEE   0.403   EGFR        . 
+# sample08              1175 Y   VPVEYEEEE   0.199   unsp        . 
+#
+# sample08              1196 Y   PSIFYQQEW   0.425   INSR        . 
+# sample08              1196 Y   PSIFYQQEW   0.383   SRC         . 
+# sample08              1196 Y   PSIFYQQEW   0.353   EGFR        . 
+# sample08              1196 Y   PSIFYQQEW   0.036   unsp        . 
+#
+# sample08              1204 Y   WPDSYATEK   0.777   unsp       YES
+# sample08              1204 Y   WPDSYATEK   0.507   INSR       YES
+# sample08              1204 Y   WPDSYATEK   0.404   SRC         . 
+# sample08              1204 Y   WPDSYATEK   0.338   EGFR        . 
+#
+# sample08              1233 Y   QEGIYTLYP   0.819   unsp       YES
+# sample08              1233 Y   QEGIYTLYP   0.516   SRC        YES
+# sample08              1233 Y   QEGIYTLYP   0.434   EGFR        . 
+# sample08              1233 Y   QEGIYTLYP   0.427   INSR        . 
+#
+# sample08              1236 Y   IYTLYPFIN   0.407   INSR        . 
+# sample08              1236 Y   IYTLYPFIN   0.392   SRC         . 
+# sample08              1236 Y   IYTLYPFIN   0.334   EGFR        . 
+# sample08              1236 Y   IYTLYPFIN   0.047   unsp        . 
+#
+# sample08              1262 Y   TPRCYICDQ   0.526   INSR       YES
+# sample08              1262 Y   TPRCYICDQ   0.421   EGFR        . 
+# sample08              1262 Y   TPRCYICDQ   0.325   SRC         . 
+# sample08              1262 Y   TPRCYICDQ   0.022   unsp        . 
+#
+# sample08              1291 Y   VVVPYEPPE   0.470   INSR        . 
+# sample08              1291 Y   VVVPYEPPE   0.378   SRC         . 
+# sample08              1291 Y   VVVPYEPPE   0.362   EGFR        . 
+# sample08              1291 Y   VVVPYEPPE   0.051   unsp        . 
+#
+# sample08              1305 Y   TTIHYIIEE   0.530   INSR       YES
+# sample08              1305 Y   TTIHYIIEE   0.357   SRC         . 
+# sample08              1305 Y   TTIHYIIEE   0.335   EGFR        . 
+# sample08              1305 Y   TTIHYIIEE   0.075   unsp        . 
+#
+# sample08              1313 Y   ETKKYGRTI   0.516   INSR       YES
+# sample08              1313 Y   ETKKYGRTI   0.374   EGFR        . 
+# sample08              1313 Y   ETKKYGRTI   0.352   SRC         . 
+# sample08              1313 Y   ETKKYGRTI   0.269   unsp        . 
+#
+# sample08              1320 Y   TIIGYFEHY   0.410   INSR        . 
+# sample08              1320 Y   TIIGYFEHY   0.408   EGFR        . 
+# sample08              1320 Y   TIIGYFEHY   0.367   SRC         . 
+# sample08              1320 Y   TIIGYFEHY   0.036   unsp        . 
+#
+# sample08              1324 Y   YFEHYLQWI   0.370   INSR        . 
+# sample08              1324 Y   YFEHYLQWI   0.354   EGFR        . 
+# sample08              1324 Y   YFEHYLQWI   0.303   SRC         . 
+# sample08              1324 Y   YFEHYLQWI   0.166   unsp        . 
+#
+# sample08              1344 Y   VRAVYKEAQ   0.509   EGFR       YES
+# sample08              1344 Y   VRAVYKEAQ   0.427   SRC         . 
+# sample08              1344 Y   VRAVYKEAQ   0.415   INSR        . 
+# sample08              1344 Y   VRAVYKEAQ   0.049   unsp        . 
+#
+# sample08              1349 Y   KEAQYYAIG   0.866   unsp       YES
+# sample08              1349 Y   KEAQYYAIG   0.482   SRC         . 
+# sample08              1349 Y   KEAQYYAIG   0.475   INSR        . 
+# sample08              1349 Y   KEAQYYAIG   0.399   EGFR        . 
+#
+# sample08              1350 Y   EAQYYAIGP   0.800   unsp       YES
+# sample08              1350 Y   EAQYYAIGP   0.464   INSR        . 
+# sample08              1350 Y   EAQYYAIGP   0.417   SRC         . 
+# sample08              1350 Y   EAQYYAIGP   0.401   EGFR        . 
+#
+# sample08              1367 Y   QLLTYDSWF   0.426   INSR        . 
+# sample08              1367 Y   QLLTYDSWF   0.362   SRC         . 
+# sample08              1367 Y   QLLTYDSWF   0.333   EGFR        . 
+# sample08              1367 Y   QLLTYDSWF   0.018   unsp        . 
+#
+# sample08              1378 Y   HNFLYQPKH   0.397   INSR        . 
+# sample08              1378 Y   HNFLYQPKH   0.391   EGFR        . 
+# sample08              1378 Y   HNFLYQPKH   0.358   SRC         . 
+# sample08              1378 Y   HNFLYQPKH   0.141   unsp        . 
+#
+# sample08              1407 Y   LSREYKLVM   0.458   SRC         . 
+# sample08              1407 Y   LSREYKLVM   0.406   INSR        . 
+# sample08              1407 Y   LSREYKLVM   0.328   EGFR        . 
+# sample08              1407 Y   LSREYKLVM   0.028   unsp        . 
+#
+# sample08              1424 Y   SAFFYKNVC   0.854   unsp       YES
+# sample08              1424 Y   SAFFYKNVC   0.406   INSR        . 
+# sample08              1424 Y   SAFFYKNVC   0.357   EGFR        . 
+# sample08              1424 Y   SAFFYKNVC   0.335   SRC         . 
+#
+# sample08              1436 Y   PQFLYQFYC   0.371   INSR        . 
+# sample08              1436 Y   PQFLYQFYC   0.338   EGFR        . 
+# sample08              1436 Y   PQFLYQFYC   0.336   SRC         . 
+# sample08              1436 Y   PQFLYQFYC   0.085   unsp        . 
+#
+# sample08              1439 Y   LYQFYCLFS   0.356   INSR        . 
+# sample08              1439 Y   LYQFYCLFS   0.336   EGFR        . 
+# sample08              1439 Y   LYQFYCLFS   0.333   SRC         . 
+# sample08              1439 Y   LYQFYCLFS   0.006   unsp        . 
+#
+# sample08              1448 Y   QQTLYDSSN   0.768   unsp       YES
+# sample08              1448 Y   QQTLYDSSN   0.436   SRC         . 
+# sample08              1448 Y   QQTLYDSSN   0.373   INSR        . 
+# sample08              1448 Y   QQTLYDSSN   0.340   EGFR        . 
+#
+# sample08              1465 Y   GSGAYRSVG   0.605   unsp       YES
+# sample08              1465 Y   GSGAYRSVG   0.425   EGFR        . 
+# sample08              1465 Y   GSGAYRSVG   0.422   INSR        . 
+# sample08              1465 Y   GSGAYRSVG   0.401   SRC         . 
+#
+# sample08              1494 Y   PPSDYVERV   0.766   unsp       YES
+# sample08              1494 Y   PPSDYVERV   0.441   EGFR        . 
+# sample08              1494 Y   PPSDYVERV   0.397   INSR        . 
+# sample08              1494 Y   PPSDYVERV   0.351   SRC         . 
+#
+# sample08              1504 Y   SPMAYSSNG   0.680   unsp       YES
+# sample08              1504 Y   SPMAYSSNG   0.460   INSR        . 
+# sample08              1504 Y   SPMAYSSNG   0.356   SRC         . 
+# sample08              1504 Y   SPMAYSSNG   0.342   EGFR        . 
+#
+# sample08              1523 Y   QCDKYVKVF   0.965   unsp       YES
+# sample08              1523 Y   QCDKYVKVF   0.502   INSR       YES
+# sample08              1523 Y   QCDKYVKVF   0.453   EGFR        . 
+# sample08              1523 Y   QCDKYVKVF   0.380   SRC         . 
+#
+# sample08              1552 Y   GNTQYLVRW   0.488   INSR        . 
+# sample08              1552 Y   GNTQYLVRW   0.416   SRC         . 
+# sample08              1552 Y   GNTQYLVRW   0.371   EGFR        . 
+# sample08              1552 Y   GNTQYLVRW   0.114   unsp        . 
+#
+# sample08              1559 Y   RWKGYDKQD   0.484   EGFR        . 
+# sample08              1559 Y   RWKGYDKQD   0.407   INSR        . 
+# sample08              1559 Y   RWKGYDKQD   0.313   SRC         . 
+# sample08              1559 Y   RWKGYDKQD   0.149   unsp        . 
+#
+# sample08              1571 Y   LTHTYPIQK   0.394   INSR        . 
+# sample08              1571 Y   LTHTYPIQK   0.367   SRC         . 
+# sample08              1571 Y   LTHTYPIQK   0.343   EGFR        . 
+# sample08              1571 Y   LTHTYPIQK   0.016   unsp        . 
+#
+# sample08              1581 Y   GSSAYGCLC   0.441   INSR        . 
+# sample08              1581 Y   GSSAYGCLC   0.432   EGFR        . 
+# sample08              1581 Y   GSSAYGCLC   0.424   SRC         . 
+# sample08              1581 Y   GSSAYGCLC   0.253   unsp        . 
+#
+# sample08              1587 Y   CLCQYPGPG   0.460   INSR        . 
+# sample08              1587 Y   CLCQYPGPG   0.329   EGFR        . 
+# sample08              1587 Y   CLCQYPGPG   0.316   SRC         . 
+# sample08              1587 Y   CLCQYPGPG   0.044   unsp        . 
+#
+# sample08              1610 Y   CFARYLAVQ   0.459   EGFR        . 
+# sample08              1610 Y   CFARYLAVQ   0.412   INSR        . 
+# sample08              1610 Y   CFARYLAVQ   0.381   SRC         . 
+# sample08              1610 Y   CFARYLAVQ   0.117   unsp        . 
+#
+# sample08              1639 Y   AAIAYGLDK   0.376   INSR        . 
+# sample08              1639 Y   AAIAYGLDK   0.355   EGFR        . 
+# sample08              1639 Y   AAIAYGLDK   0.326   SRC         . 
+# sample08              1639 Y   AAIAYGLDK   0.018   unsp        . 
+#
+# sample08              1668 Y   GKEVYLSGS   0.682   unsp       YES
+# sample08              1668 Y   GKEVYLSGS   0.427   INSR        . 
+# sample08              1668 Y   GKEVYLSGS   0.394   EGFR        . 
+# sample08              1668 Y   GKEVYLSGS   0.361   SRC         . 
+#
+# sample08              1697 Y   PQTRYVELF   0.632   unsp       YES
+# sample08              1697 Y   PQTRYVELF   0.529   EGFR       YES
+# sample08              1697 Y   PQTRYVELF   0.357   SRC         . 
+# sample08              1697 Y   PQTRYVELF   0.355   INSR        . 
+#
+# sample08              1709 Y   DKERYDMCN   0.942   unsp       YES
+# sample08              1709 Y   DKERYDMCN   0.449   INSR        . 
+# sample08              1709 Y   DKERYDMCN   0.427   EGFR        . 
+# sample08              1709 Y   DKERYDMCN   0.380   SRC         . 
+#
+# sample08              1726 Y   GLSEYLETK   0.527   EGFR       YES
+# sample08              1726 Y   GLSEYLETK   0.379   SRC         . 
+# sample08              1726 Y   GLSEYLETK   0.361   INSR        . 
+# sample08              1726 Y   GLSEYLETK   0.147   unsp        . 
+#
+# sample08              1738 Y   FPRFYFLFR   0.398   INSR        . 
+# sample08              1738 Y   FPRFYFLFR   0.336   EGFR        . 
+# sample08              1738 Y   FPRFYFLFR   0.320   SRC         . 
+# sample08              1738 Y   FPRFYFLFR   0.010   unsp        . 
+#
+# sample08              1755 Y   DDQDYLVSL   0.833   unsp       YES
+# sample08              1755 Y   DDQDYLVSL   0.486   INSR        . 
+# sample08              1755 Y   DDQDYLVSL   0.377   SRC         . 
+# sample08              1755 Y   DDQDYLVSL   0.376   EGFR        . 
+#
+# sample08              1782 Y   HVIMYSYYG   0.477   INSR        . 
+# sample08              1782 Y   HVIMYSYYG   0.344   EGFR        . 
+# sample08              1782 Y   HVIMYSYYG   0.322   SRC         . 
+# sample08              1782 Y   HVIMYSYYG   0.022   unsp        . 
+#
+# sample08              1784 Y   IMYSYYGLT   0.410   INSR        . 
+# sample08              1784 Y   IMYSYYGLT   0.339   SRC         . 
+# sample08              1784 Y   IMYSYYGLT   0.336   EGFR        . 
+# sample08              1784 Y   IMYSYYGLT   0.022   unsp        . 
+#
+# sample08              1785 Y   MYSYYGLTA   0.471   INSR        . 
+# sample08              1785 Y   MYSYYGLTA   0.427   SRC         . 
+# sample08              1785 Y   MYSYYGLTA   0.364   EGFR        . 
+# sample08              1785 Y   MYSYYGLTA   0.035   unsp        . 
+#
+# sample08              1797 Y   WIQKYLTVA   0.404   INSR        . 
+# sample08              1797 Y   WIQKYLTVA   0.404   EGFR        . 
+# sample08              1797 Y   WIQKYLTVA   0.330   SRC         . 
+# sample08              1797 Y   WIQKYLTVA   0.237   unsp        . 
+#
+# sample08              1807 Y   SDESYMEKS   0.982   unsp       YES
+# sample08              1807 Y   SDESYMEKS   0.436   EGFR        . 
+# sample08              1807 Y   SDESYMEKS   0.421   SRC         . 
+# sample08              1807 Y   SDESYMEKS   0.409   INSR        . 
+#
+# sample08              1813 Y   EKSLYQENL   0.948   unsp       YES
+# sample08              1813 Y   EKSLYQENL   0.518   EGFR       YES
+# sample08              1813 Y   EKSLYQENL   0.437   INSR        . 
+# sample08              1813 Y   EKSLYQENL   0.409   SRC         . 
+#
+# sample08              1842 Y   AKLEYQRRE   0.463   INSR        . 
+# sample08              1842 Y   AKLEYQRRE   0.446   unsp        . 
+# sample08              1842 Y   AKLEYQRRE   0.385   SRC         . 
+# sample08              1842 Y   AKLEYQRRE   0.381   EGFR        . 
+#
+# sample08              1871 Y   SGSKYYKEI   0.454   INSR        . 
+# sample08              1871 Y   SGSKYYKEI   0.377   SRC         . 
+# sample08              1871 Y   SGSKYYKEI   0.361   EGFR        . 
+# sample08              1871 Y   SGSKYYKEI   0.214   unsp        . 
+#
+# sample08              1872 Y   GSKYYKEIP   0.504   unsp       YES
+# sample08              1872 Y   GSKYYKEIP   0.464   SRC         . 
+# sample08              1872 Y   GSKYYKEIP   0.460   INSR        . 
+# sample08              1872 Y   GSKYYKEIP   0.367   EGFR        . 
+#
+# sample08              1900 Y   ELPDYNKIS   0.766   unsp       YES
+# sample08              1900 Y   ELPDYNKIS   0.605   EGFR       YES
+# sample08              1900 Y   ELPDYNKIS   0.449   INSR        . 
+# sample08              1900 Y   ELPDYNKIS   0.407   SRC         . 
+#
+# sample08              1919 Y   GQPPYPPQE   0.384   SRC         . 
+# sample08              1919 Y   GQPPYPPQE   0.364   EGFR        . 
+# sample08              1919 Y   GQPPYPPQE   0.362   INSR        . 
+# sample08              1919 Y   GQPPYPPQE   0.038   unsp        . 
+#
+# sample08              1929 Y   RSRPYLHGT   0.406   INSR        . 
+# sample08              1929 Y   RSRPYLHGT   0.347   EGFR        . 
+# sample08              1929 Y   RSRPYLHGT   0.343   SRC         . 
+# sample08              1929 Y   RSRPYLHGT   0.071   unsp        . 
+#
+# sample08              1958 Y   FNIFYELFT   0.403   INSR        . 
+# sample08              1958 Y   FNIFYELFT   0.390   EGFR        . 
+# sample08              1958 Y   FNIFYELFT   0.364   SRC         . 
+# sample08              1958 Y   FNIFYELFT   0.176   unsp        . 
+#
+# sample08              1987 Y   TERVYVREL   0.604   unsp       YES
+# sample08              1987 Y   TERVYVREL   0.415   INSR        . 
+# sample08              1987 Y   TERVYVREL   0.400   SRC         . 
+# sample08              1987 Y   TERVYVREL   0.330   EGFR        . 
+#
+# sample08              1992 Y   VRELYTVLL   0.428   INSR        . 
+# sample08              1992 Y   VRELYTVLL   0.344   SRC         . 
+# sample08              1992 Y   VRELYTVLL   0.341   EGFR        . 
+# sample08              1992 Y   VRELYTVLL   0.205   unsp        . 
+#
+# sample08              1998 Y   VLLGYRAEQ   0.368   INSR        . 
+# sample08              1998 Y   VLLGYRAEQ   0.355   EGFR        . 
+# sample08              1998 Y   VLLGYRAEQ   0.351   SRC         . 
+# sample08              1998 Y   VLLGYRAEQ   0.008   unsp        . 
+#
+# sample08              2016 Y   QCRQYWGSS   0.387   INSR        . 
+# sample08              2016 Y   QCRQYWGSS   0.357   SRC         . 
+# sample08              2016 Y   QCRQYWGSS   0.334   EGFR        . 
+# sample08              2016 Y   QCRQYWGSS   0.041   unsp        . 
+#
+# sample08              2037 Y   EKPRYDAAE   0.939   unsp       YES
+# sample08              2037 Y   EKPRYDAAE   0.635   EGFR       YES
+# sample08              2037 Y   EKPRYDAAE   0.528   SRC        YES
+# sample08              2037 Y   EKPRYDAAE   0.463   INSR        . 
+#
+# sample08              2045 Y   ERGFYEALF   0.484   SRC         . 
+# sample08              2045 Y   ERGFYEALF   0.431   INSR        . 
+# sample08              2045 Y   ERGFYEALF   0.410   EGFR        . 
+# sample08              2045 Y   ERGFYEALF   0.116   unsp        . 
+#
+# sample08              2060 Y   KVRLYTRAD   0.382   INSR        . 
+# sample08              2060 Y   KVRLYTRAD   0.364   EGFR        . 
+# sample08              2060 Y   KVRLYTRAD   0.334   SRC         . 
+# sample08              2060 Y   KVRLYTRAD   0.085   unsp        . 
+#
+# sample08              2074 Y   FRSPYSRGL   0.486   INSR        . 
+# sample08              2074 Y   FRSPYSRGL   0.343   EGFR        . 
+# sample08              2074 Y   FRSPYSRGL   0.317   SRC         . 
+# sample08              2074 Y   FRSPYSRGL   0.206   unsp        . 
+#
+# sample08              2103 Y   MVIEYSGIV   0.408   INSR        . 
+# sample08              2103 Y   MVIEYSGIV   0.386   SRC         . 
+# sample08              2103 Y   MVIEYSGIV   0.336   EGFR        . 
+# sample08              2103 Y   MVIEYSGIV   0.017   unsp        . 
+#
+# sample08              2132 Y   DAEGYLAHP   0.921   unsp       YES
+# sample08              2132 Y   DAEGYLAHP   0.418   EGFR        . 
+# sample08              2132 Y   DAEGYLAHP   0.392   SRC         . 
+# sample08              2132 Y   DAEGYLAHP   0.373   INSR        . 
+#
+# sample08              2140 Y   PVNAYKLVK   0.382   INSR        . 
+# sample08              2140 Y   PVNAYKLVK   0.375   SRC         . 
+# sample08              2140 Y   PVNAYKLVK   0.360   EGFR        . 
+# sample08              2140 Y   PVNAYKLVK   0.159   unsp        . 
+#
+# sample08              2153 Y   NVKTYSTSF   0.447   INSR        . 
+# sample08              2153 Y   NVKTYSTSF   0.376   EGFR        . 
+# sample08              2153 Y   NVKTYSTSF   0.365   SRC         . 
+# sample08              2153 Y   NVKTYSTSF   0.026   unsp        . 
+#
+# sample08              2161 Y   FTPMYHAVT   0.582   unsp       YES
+# sample08              2161 Y   FTPMYHAVT   0.490   EGFR        . 
+# sample08              2161 Y   FTPMYHAVT   0.458   SRC         . 
+# sample08              2161 Y   FTPMYHAVT   0.434   INSR        . 
+#
+# sample08              2190 Y   WWWSYFTSL   0.472   INSR        . 
+# sample08              2190 Y   WWWSYFTSL   0.328   EGFR        . 
+# sample08              2190 Y   WWWSYFTSL   0.319   SRC         . 
+# sample08              2190 Y   WWWSYFTSL   0.055   unsp        . 
+#
+# sample08              2219 Y   LEDPYSQQI   0.603   unsp       YES
+# sample08              2219 Y   LEDPYSQQI   0.468   SRC         . 
+# sample08              2219 Y   LEDPYSQQI   0.446   INSR        . 
+# sample08              2219 Y   LEDPYSQQI   0.429   EGFR        . 
+#
+# sample08              2248 Y   ELDGYEPEP   0.882   unsp       YES
+# sample08              2248 Y   ELDGYEPEP   0.560   INSR       YES
+# sample08              2248 Y   ELDGYEPEP   0.477   SRC         . 
+# sample08              2248 Y   ELDGYEPEP   0.383   EGFR        . 
+#
+# sample08              2277 Y   QEFDYKKNF   0.881   unsp       YES
+# sample08              2277 Y   QEFDYKKNF   0.553   EGFR       YES
+# sample08              2277 Y   QEFDYKKNF   0.451   INSR        . 
+# sample08              2277 Y   QEFDYKKNF   0.399   SRC         . 
+#
+# sample08              2306 Y   PTVDYYPDR   0.411   INSR        . 
+# sample08              2306 Y   PTVDYYPDR   0.343   EGFR        . 
+# sample08              2306 Y   PTVDYYPDR   0.328   SRC         . 
+# sample08              2306 Y   PTVDYYPDR   0.052   unsp        . 
+#
+# sample08              2307 Y   TVDYYPDRT   0.486   INSR        . 
+# sample08              2307 Y   TVDYYPDRT   0.474   unsp        . 
+# sample08              2307 Y   TVDYYPDRT   0.441   SRC         . 
+# sample08              2307 Y   TVDYYPDRT   0.344   EGFR        . 
+#
+# sample08              2312 Y   PDRTYIFTF   0.448   INSR        . 
+# sample08              2312 Y   PDRTYIFTF   0.391   EGFR        . 
+# sample08              2312 Y   PDRTYIFTF   0.373   SRC         . 
+# sample08              2312 Y   PDRTYIFTF   0.169   unsp        . 
+#
+# sample08              2335 Y   LFDEYGSKK   0.552   unsp       YES
+# sample08              2335 Y   LFDEYGSKK   0.525   SRC        YES
+# sample08              2335 Y   LFDEYGSKK   0.481   INSR        . 
+# sample08              2335 Y   LFDEYGSKK   0.330   EGFR        . 
+#
+# sample08              2342 Y   KKSDYIKLY   0.958   unsp       YES
+# sample08              2342 Y   KKSDYIKLY   0.640   EGFR       YES
+# sample08              2342 Y   KKSDYIKLY   0.456   INSR        . 
+# sample08              2342 Y   KKSDYIKLY   0.308   SRC         . 
+#
+# sample08              2346 Y   YIKLYVRCL   0.430   INSR        . 
+# sample08              2346 Y   YIKLYVRCL   0.340   EGFR        . 
+# sample08              2346 Y   YIKLYVRCL   0.290   SRC         . 
+# sample08              2346 Y   YIKLYVRCL   0.050   unsp        . 
+#
+# sample08              2364 Y   NLTWYGITS   0.464   EGFR        . 
+# sample08              2364 Y   NLTWYGITS   0.409   INSR        . 
+# sample08              2364 Y   NLTWYGITS   0.371   SRC         . 
+# sample08              2364 Y   NLTWYGITS   0.048   unsp        . 
+#
+# sample08              2373 Y   PTPTYLVYY   0.457   unsp        . 
+# sample08              2373 Y   PTPTYLVYY   0.456   SRC         . 
+# sample08              2373 Y   PTPTYLVYY   0.389   INSR        . 
+# sample08              2373 Y   PTPTYLVYY   0.337   EGFR        . 
+#
+# sample08              2376 Y   TYLVYYAHR   0.442   SRC         . 
+# sample08              2376 Y   TYLVYYAHR   0.423   INSR        . 
+# sample08              2376 Y   TYLVYYAHR   0.347   EGFR        . 
+# sample08              2376 Y   TYLVYYAHR   0.012   unsp        . 
+#
+# sample08              2377 Y   YLVYYAHRQ   0.409   INSR        . 
+# sample08              2377 Y   YLVYYAHRQ   0.368   SRC         . 
+# sample08              2377 Y   YLVYYAHRQ   0.346   EGFR        . 
+# sample08              2377 Y   YLVYYAHRQ   0.030   unsp        . 
+#
+# sample08              2393 Y   GGFGYSPFL   0.457   INSR        . 
+# sample08              2393 Y   GGFGYSPFL   0.340   EGFR        . 
+# sample08              2393 Y   GGFGYSPFL   0.329   SRC         . 
+# sample08              2393 Y   GGFGYSPFL   0.038   unsp        . 
+#
+# sample08              2418 Y   KGIGYNYTY   0.460   EGFR        . 
+# sample08              2418 Y   KGIGYNYTY   0.428   INSR        . 
+# sample08              2418 Y   KGIGYNYTY   0.329   SRC         . 
+# sample08              2418 Y   KGIGYNYTY   0.148   unsp        . 
+#
+# sample08              2420 Y   IGYNYTYMP   0.482   INSR        . 
+# sample08              2420 Y   IGYNYTYMP   0.404   SRC         . 
+# sample08              2420 Y   IGYNYTYMP   0.343   EGFR        . 
+# sample08              2420 Y   IGYNYTYMP   0.098   unsp        . 
+#
+# sample08              2422 Y   YNYTYMPNQ   0.462   INSR        . 
+# sample08              2422 Y   YNYTYMPNQ   0.422   unsp        . 
+# sample08              2422 Y   YNYTYMPNQ   0.403   SRC         . 
+# sample08              2422 Y   YNYTYMPNQ   0.390   EGFR        . 
+#
+# sample08              2451 Y   VIMDYESLE   0.506   INSR       YES
+# sample08              2451 Y   VIMDYESLE   0.420   EGFR        . 
+# sample08              2451 Y   VIMDYESLE   0.396   SRC         . 
+# sample08              2451 Y   VIMDYESLE   0.066   unsp        . 
+#
+# sample08              2480 Y   PPFNYSLGL   0.426   INSR        . 
+# sample08              2480 Y   PPFNYSLGL   0.325   EGFR        . 
+# sample08              2480 Y   PPFNYSLGL   0.313   SRC         . 
+# sample08              2480 Y   PPFNYSLGL   0.021   unsp        . 
+#
+# sample08              2485 Y   SLGLYQWSD   0.365   SRC         . 
+# sample08              2485 Y   SLGLYQWSD   0.357   INSR        . 
+# sample08              2485 Y   SLGLYQWSD   0.337   unsp        . 
+# sample08              2485 Y   SLGLYQWSD   0.334   EGFR        . 
+#
+# sample08              2499 Y   VLKIYHLRQ   0.433   INSR        . 
+# sample08              2499 Y   VLKIYHLRQ   0.372   EGFR        . 
+# sample08              2499 Y   VLKIYHLRQ   0.323   SRC         . 
+# sample08              2499 Y   VLKIYHLRQ   0.007   unsp        . 
+#
+# sample08              2509 Y   DSGKYNCRV   0.512   INSR       YES
+# sample08              2509 Y   DSGKYNCRV   0.380   SRC         . 
+# sample08              2509 Y   DSGKYNCRV   0.357   EGFR        . 
+# sample08              2509 Y   DSGKYNCRV   0.296   unsp        . 
+#
+# sample08              2525 Y   TGEGYRIKL   0.409   EGFR        . 
+# sample08              2525 Y   TGEGYRIKL   0.386   unsp        . 
+# sample08              2525 Y   TGEGYRIKL   0.383   INSR        . 
+# sample08              2525 Y   TGEGYRIKL   0.309   SRC         . 
+#
+# sample08              2534 Y   HFDGYSDCY   0.877   unsp       YES
+# sample08              2534 Y   HFDGYSDCY   0.456   INSR        . 
+# sample08              2534 Y   HFDGYSDCY   0.431   SRC         . 
+# sample08              2534 Y   HFDGYSDCY   0.410   EGFR        . 
+#
+# sample08              2538 Y   YSDCYDFWV   0.492   INSR        . 
+# sample08              2538 Y   YSDCYDFWV   0.395   SRC         . 
+# sample08              2538 Y   YSDCYDFWV   0.329   EGFR        . 
+# sample08              2538 Y   YSDCYDFWV   0.307   unsp        . 
+#
+# sample08              2567 Y   GFESYEALP   0.781   unsp       YES
+# sample08              2567 Y   GFESYEALP   0.485   INSR        . 
+# sample08              2567 Y   GFESYEALP   0.447   SRC         . 
+# sample08              2567 Y   GFESYEALP   0.362   EGFR        . 
+#
+# sample08              2581 Y   CFSVYQLMT   0.444   SRC         . 
+# sample08              2581 Y   CFSVYQLMT   0.434   EGFR        . 
+# sample08              2581 Y   CFSVYQLMT   0.418   INSR        . 
+# sample08              2581 Y   CFSVYQLMT   0.157   unsp        . 
+#
+# sample08              2590 Y   PKQMYEHFK   0.487   unsp        . 
+# sample08              2590 Y   PKQMYEHFK   0.470   INSR        . 
+# sample08              2590 Y   PKQMYEHFK   0.392   EGFR        . 
+# sample08              2590 Y   PKQMYEHFK   0.359   SRC         . 
+#
+# sample08              2596 Y   HFKGYEYVS   0.485   INSR        . 
+# sample08              2596 Y   HFKGYEYVS   0.432   EGFR        . 
+# sample08              2596 Y   HFKGYEYVS   0.398   SRC         . 
+# sample08              2596 Y   HFKGYEYVS   0.235   unsp        . 
+#
+# sample08              2598 Y   KGYEYVSHI   0.558   unsp       YES
+# sample08              2598 Y   KGYEYVSHI   0.413   SRC         . 
+# sample08              2598 Y   KGYEYVSHI   0.401   INSR        . 
+# sample08              2598 Y   KGYEYVSHI   0.370   EGFR        . 
+#
+# sample08              2625 Y   ELENYRLSL   0.370   INSR        . 
+# sample08              2625 Y   ELENYRLSL   0.349   EGFR        . 
+# sample08              2625 Y   ELENYRLSL   0.327   SRC         . 
+# sample08              2625 Y   ELENYRLSL   0.062   unsp        . 
+#
+# sample08              2654 Y   QVKSYARQY   0.504   EGFR       YES
+# sample08              2654 Y   QVKSYARQY   0.439   INSR        . 
+# sample08              2654 Y   QVKSYARQY   0.304   SRC         . 
+# sample08              2654 Y   QVKSYARQY   0.060   unsp        . 
+#
+# sample08              2658 Y   YARQYFKNK   0.458   INSR        . 
+# sample08              2658 Y   YARQYFKNK   0.334   SRC         . 
+# sample08              2658 Y   YARQYFKNK   0.333   EGFR        . 
+# sample08              2658 Y   YARQYFKNK   0.106   unsp        . 
+#
+# sample08              2673 Y   GWPMYAQLL   0.416   EGFR        . 
+# sample08              2673 Y   GWPMYAQLL   0.387   INSR        . 
+# sample08              2673 Y   GWPMYAQLL   0.348   SRC         . 
+# sample08              2673 Y   GWPMYAQLL   0.306   unsp        . 
+#
+# sample08              2683 Y   DLFKYLAPF   0.420   INSR        . 
+# sample08              2683 Y   DLFKYLAPF   0.362   EGFR        . 
+# sample08              2683 Y   DLFKYLAPF   0.346   SRC         . 
+# sample08              2683 Y   DLFKYLAPF   0.053   unsp        . 
+#
+# sample08              2705 Y   LRAKYFEEL   0.359   INSR        . 
+# sample08              2705 Y   LRAKYFEEL   0.339   EGFR        . 
+# sample08              2705 Y   LRAKYFEEL   0.323   SRC         . 
+# sample08              2705 Y   LRAKYFEEL   0.017   unsp        . 
+#
+# sample08              2712 Y   ELELYRKQC   0.388   EGFR        . 
+# sample08              2712 Y   ELELYRKQC   0.381   INSR        . 
+# sample08              2712 Y   ELELYRKQC   0.344   SRC         . 
+# sample08              2712 Y   ELELYRKQC   0.109   unsp        . 
+#
+# sample08              2722 Y   ARKKYRMSA   0.391   INSR        . 
+# sample08              2722 Y   ARKKYRMSA   0.331   EGFR        . 
+# sample08              2722 Y   ARKKYRMSA   0.317   SRC         . 
+# sample08              2722 Y   ARKKYRMSA   0.136   unsp        . 
+#
+# sample08              2739 Y   KGKVYDYYV   0.385   INSR        . 
+# sample08              2739 Y   KGKVYDYYV   0.375   SRC         . 
+# sample08              2739 Y   KGKVYDYYV   0.344   EGFR        . 
+# sample08              2739 Y   KGKVYDYYV   0.028   unsp        . 
+#
+# sample08              2741 Y   KVYDYYVES   0.446   INSR        . 
+# sample08              2741 Y   KVYDYYVES   0.356   SRC         . 
+# sample08              2741 Y   KVYDYYVES   0.332   EGFR        . 
+# sample08              2741 Y   KVYDYYVES   0.024   unsp        . 
+#
+# sample08              2742 Y   VYDYYVEST   0.836   unsp       YES
+# sample08              2742 Y   VYDYYVEST   0.456   SRC         . 
+# sample08              2742 Y   VYDYYVEST   0.440   INSR        . 
+# sample08              2742 Y   VYDYYVEST   0.425   EGFR        . 
+#
+# sample08              2758 Y   RLFHYYSCE   0.489   INSR        . 
+# sample08              2758 Y   RLFHYYSCE   0.397   SRC         . 
+# sample08              2758 Y   RLFHYYSCE   0.351   EGFR        . 
+# sample08              2758 Y   RLFHYYSCE   0.033   unsp        . 
+#
+# sample08              2759 Y   LFHYYSCER   0.430   INSR        . 
+# sample08              2759 Y   LFHYYSCER   0.398   SRC         . 
+# sample08              2759 Y   LFHYYSCER   0.336   EGFR        . 
+# sample08              2759 Y   LFHYYSCER   0.015   unsp        . 
+#
+# sample08              2770 Y   KAMGYQPLV   0.375   INSR        . 
+# sample08              2770 Y   KAMGYQPLV   0.363   EGFR        . 
+# sample08              2770 Y   KAMGYQPLV   0.307   SRC         . 
+# sample08              2770 Y   KAMGYQPLV   0.020   unsp        . 
+#
+# sample08              2799 Y   EEDLYDDLH   0.991   unsp       YES
+# sample08              2799 Y   EEDLYDDLH   0.541   SRC        YES
+# sample08              2799 Y   EEDLYDDLH   0.443   INSR        . 
+# sample08              2799 Y   EEDLYDDLH   0.354   EGFR        . 
+#
+# sample08              2809 Y   SSHHYSHPG   0.841   unsp       YES
+# sample08              2809 Y   SSHHYSHPG   0.421   INSR        . 
+# sample08              2809 Y   SSHHYSHPG   0.367   SRC         . 
+# sample08              2809 Y   SSHHYSHPG   0.332   EGFR        . 
+#
+# sample08              2828 Y   NRPNYNVSF   0.393   INSR        . 
+# sample08              2828 Y   NRPNYNVSF   0.389   SRC         . 
+# sample08              2828 Y   NRPNYNVSF   0.337   EGFR        . 
+# sample08              2828 Y   NRPNYNVSF   0.077   unsp        . 
+#
+# sample08              2857 Y   DSNGYTNLP   0.968   unsp       YES
+# sample08              2857 Y   DSNGYTNLP   0.536   INSR       YES
+# sample08              2857 Y   DSNGYTNLP   0.439   SRC         . 
+# sample08              2857 Y   DSNGYTNLP   0.418   EGFR        . 
+#
+# sample08              2886 Y   LEEVYGSVA   0.955   unsp       YES
+# sample08              2886 Y   LEEVYGSVA   0.588   SRC        YES
+# sample08              2886 Y   LEEVYGSVA   0.428   EGFR        . 
+# sample08              2886 Y   LEEVYGSVA   0.398   INSR        . 
+#
+# sample08              2895 Y   KVADYWLDV   0.418   INSR        . 
+# sample08              2895 Y   KVADYWLDV   0.342   EGFR        . 
+# sample08              2895 Y   KVADYWLDV   0.300   SRC         . 
+# sample08              2895 Y   KVADYWLDV   0.020   unsp        . 

@@ -1,0 +1,4 @@
+Figure S10. Horizontal information is better conserved than vertical information in intrinsically disordered region.
+
+All scripts I used to generate these figures are also used to produce figure 2. 
+To reduce duplication, I placed all scripts in figure 2 folder, so please have a look for it.
